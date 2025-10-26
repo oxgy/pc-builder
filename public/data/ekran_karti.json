@@ -1,0 +1,1680 @@
+[
+  {
+    "id": "gpu-nvidia-rtx-4060-1",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 40",
+    "model": "RTX 4060",
+    "ad": "NVIDIA RTX 4060",
+    "gpu_cipi": "4060",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 8,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 245,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 115,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 10600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "geforcertx40",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-4060-ti-2",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 40",
+    "model": "RTX 4060 Ti",
+    "ad": "NVIDIA RTX 4060 Ti",
+    "gpu_cipi": "4060 Ti",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 247,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 160,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 10600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "geforcertx40",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-4070-3",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 40",
+    "model": "RTX 4070",
+    "ad": "NVIDIA RTX 4070",
+    "gpu_cipi": "4070",
+    "vram": {
+      "boyut_gb": 12,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 260,
+      "kalinlik_slot": 2.2
+    },
+    "guc": {
+      "tgp_w": 200,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 11400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "geforcertx40",
+      "12gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-4070-super-4",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 40",
+    "model": "RTX 4070 SUPER",
+    "ad": "NVIDIA RTX 4070 SUPER",
+    "gpu_cipi": "4070 SUPER",
+    "vram": {
+      "boyut_gb": 12,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 270,
+      "kalinlik_slot": 2.2
+    },
+    "guc": {
+      "tgp_w": 220,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 11400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "geforcertx40",
+      "12gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-4070-ti-super-5",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 40",
+    "model": "RTX 4070 Ti SUPER",
+    "ad": "NVIDIA RTX 4070 Ti SUPER",
+    "gpu_cipi": "4070 Ti SUPER",
+    "vram": {
+      "boyut_gb": 16,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 300,
+      "kalinlik_slot": 2.5
+    },
+    "guc": {
+      "tgp_w": 285,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 600
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 12200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "geforcertx40",
+      "16gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-4080-6",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 40",
+    "model": "RTX 4080",
+    "ad": "NVIDIA RTX 4080",
+    "gpu_cipi": "4080",
+    "vram": {
+      "boyut_gb": 16,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 340,
+      "kalinlik_slot": 3.0
+    },
+    "guc": {
+      "tgp_w": 320,
+      "ek_guc_konnektoru": [
+        "12VHPWR"
+      ],
+      "onerilen_psu_w": 650
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 12200,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "geforcertx40",
+      "16gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-4090-7",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 40",
+    "model": "RTX 4090",
+    "ad": "NVIDIA RTX 4090",
+    "gpu_cipi": "4090",
+    "vram": {
+      "boyut_gb": 24,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 360,
+      "kalinlik_slot": 3.5
+    },
+    "guc": {
+      "tgp_w": 450,
+      "ek_guc_konnektoru": [
+        "12VHPWR"
+      ],
+      "onerilen_psu_w": 900
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 13800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 8
+    },
+    "etiketler": [
+      "geforcertx40",
+      "24gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-3050-8",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 30",
+    "model": "RTX 3050",
+    "ad": "NVIDIA RTX 3050",
+    "gpu_cipi": "3050",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 4,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 242,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 130,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 7600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "geforcertx30",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-3060-9",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 30",
+    "model": "RTX 3060",
+    "ad": "NVIDIA RTX 3060",
+    "gpu_cipi": "3060",
+    "vram": {
+      "boyut_gb": 12,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 250,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 170,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 8400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "geforcertx30",
+      "12gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-3060-ti-10",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 30",
+    "model": "RTX 3060 Ti",
+    "ad": "NVIDIA RTX 3060 Ti",
+    "gpu_cipi": "3060 Ti",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 252,
+      "kalinlik_slot": 2.2
+    },
+    "guc": {
+      "tgp_w": 200,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 7600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "etiketler": [
+      "geforcertx30",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-3070-11",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 30",
+    "model": "RTX 3070",
+    "ad": "NVIDIA RTX 3070",
+    "gpu_cipi": "3070",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 280,
+      "kalinlik_slot": 2.2
+    },
+    "guc": {
+      "tgp_w": 220,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 7600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "geforcertx30",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-3080-12",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 30",
+    "model": "RTX 3080",
+    "ad": "NVIDIA RTX 3080",
+    "gpu_cipi": "3080",
+    "vram": {
+      "boyut_gb": 10,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 320,
+      "kalinlik_slot": 2.7
+    },
+    "guc": {
+      "tgp_w": 320,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 650
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 8000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "geforcertx30",
+      "10gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-3090-13",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 30",
+    "model": "RTX 3090",
+    "ad": "NVIDIA RTX 3090",
+    "gpu_cipi": "3090",
+    "vram": {
+      "boyut_gb": 24,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 336,
+      "kalinlik_slot": 3.0
+    },
+    "guc": {
+      "tgp_w": 350,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 700
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 10800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "geforcertx30",
+      "24gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-7600-14",
+    "marka": "AMD",
+    "seri": "Radeon RX 7000",
+    "model": "RX 7600",
+    "ad": "AMD RX 7600",
+    "gpu_cipi": "7600",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 270,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 165,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 9600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 15
+    },
+    "etiketler": [
+      "radeonrx7000",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-7700-xt-15",
+    "marka": "AMD",
+    "seri": "Radeon RX 7000",
+    "model": "RX 7700 XT",
+    "ad": "AMD RX 7700 XT",
+    "gpu_cipi": "7700 XT",
+    "vram": {
+      "boyut_gb": 12,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 305,
+      "kalinlik_slot": 2.5
+    },
+    "guc": {
+      "tgp_w": 245,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 500
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 10400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "etiketler": [
+      "radeonrx7000",
+      "12gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-7800-xt-16",
+    "marka": "AMD",
+    "seri": "Radeon RX 7000",
+    "model": "RX 7800 XT",
+    "ad": "AMD RX 7800 XT",
+    "gpu_cipi": "7800 XT",
+    "vram": {
+      "boyut_gb": 16,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 320,
+      "kalinlik_slot": 2.5
+    },
+    "guc": {
+      "tgp_w": 263,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 550
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 11200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "radeonrx7000",
+      "16gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-7900-gre-17",
+    "marka": "AMD",
+    "seri": "Radeon RX 7000",
+    "model": "RX 7900 GRE",
+    "ad": "AMD RX 7900 GRE",
+    "gpu_cipi": "7900 GRE",
+    "vram": {
+      "boyut_gb": 16,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 320,
+      "kalinlik_slot": 2.5
+    },
+    "guc": {
+      "tgp_w": 260,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 550
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 11200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "radeonrx7000",
+      "16gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-7900-xt-18",
+    "marka": "AMD",
+    "seri": "Radeon RX 7000",
+    "model": "RX 7900 XT",
+    "ad": "AMD RX 7900 XT",
+    "gpu_cipi": "7900 XT",
+    "vram": {
+      "boyut_gb": 20,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 345,
+      "kalinlik_slot": 3.0
+    },
+    "guc": {
+      "tgp_w": 300,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 600
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 12000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "radeonrx7000",
+      "20gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-7900-xtx-19",
+    "marka": "AMD",
+    "seri": "Radeon RX 7000",
+    "model": "RX 7900 XTX",
+    "ad": "AMD RX 7900 XTX",
+    "gpu_cipi": "7900 XTX",
+    "vram": {
+      "boyut_gb": 24,
+      "tip": "GDDR6X"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 350,
+      "kalinlik_slot": 3.0
+    },
+    "guc": {
+      "tgp_w": 355,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 750
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 12800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "radeonrx7000",
+      "24gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-6500-xt-20",
+    "marka": "AMD",
+    "seri": "Radeon RX 6000",
+    "model": "RX 6500 XT",
+    "ad": "AMD RX 6500 XT",
+    "gpu_cipi": "6500 XT",
+    "vram": {
+      "boyut_gb": 4,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 4,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 210,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 107,
+      "ek_guc_konnektoru": [
+        "6-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": false,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 5800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 1
+    },
+    "etiketler": [
+      "radeonrx6000",
+      "4gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-6600-21",
+    "marka": "AMD",
+    "seri": "Radeon RX 6000",
+    "model": "RX 6600",
+    "ad": "AMD RX 6600",
+    "gpu_cipi": "6600",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 242,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 132,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": false,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 6600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "radeonrx6000",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-6600-xt-22",
+    "marka": "AMD",
+    "seri": "Radeon RX 6000",
+    "model": "RX 6600 XT",
+    "ad": "AMD RX 6600 XT",
+    "gpu_cipi": "6600 XT",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 250,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 160,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": false,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 6600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "radeonrx6000",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-6700-xt-23",
+    "marka": "AMD",
+    "seri": "Radeon RX 6000",
+    "model": "RX 6700 XT",
+    "ad": "AMD RX 6700 XT",
+    "gpu_cipi": "6700 XT",
+    "vram": {
+      "boyut_gb": 12,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 300,
+      "kalinlik_slot": 2.2
+    },
+    "guc": {
+      "tgp_w": 230,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 500
+    },
+    "ozellikler": {
+      "ray_tracing": false,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 7400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "radeonrx6000",
+      "12gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-6800-24",
+    "marka": "AMD",
+    "seri": "Radeon RX 6000",
+    "model": "RX 6800",
+    "ad": "AMD RX 6800",
+    "gpu_cipi": "6800",
+    "vram": {
+      "boyut_gb": 16,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 320,
+      "kalinlik_slot": 2.5
+    },
+    "guc": {
+      "tgp_w": 250,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 500
+    },
+    "ozellikler": {
+      "ray_tracing": false,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 8200,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "radeonrx6000",
+      "16gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-6800-xt-25",
+    "marka": "AMD",
+    "seri": "Radeon RX 6000",
+    "model": "RX 6800 XT",
+    "ad": "AMD RX 6800 XT",
+    "gpu_cipi": "6800 XT",
+    "vram": {
+      "boyut_gb": 16,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 330,
+      "kalinlik_slot": 2.7
+    },
+    "guc": {
+      "tgp_w": 300,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 600
+    },
+    "ozellikler": {
+      "ray_tracing": false,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 8200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "radeonrx6000",
+      "16gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-6900-xt-26",
+    "marka": "AMD",
+    "seri": "Radeon RX 6000",
+    "model": "RX 6900 XT",
+    "ad": "AMD RX 6900 XT",
+    "gpu_cipi": "6900 XT",
+    "vram": {
+      "boyut_gb": 16,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 2,
+      "dp": 2,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 340,
+      "kalinlik_slot": 2.7
+    },
+    "guc": {
+      "tgp_w": 335,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 700
+    },
+    "ozellikler": {
+      "ray_tracing": false,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta en az bir PCIe x16 yuvası bulunmalı. PCIe sürümleri geriye/ileri uyumlu çalışır (ör. Gen4 kart, Gen3 yuva ile çalışır ancak bant genişliği düşebilir)."
+    },
+    "fiyat_try": 8200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 7
+    },
+    "etiketler": [
+      "radeonrx6000",
+      "16gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-4060-low-profile-27",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 40",
+    "model": "RTX 4060 Low Profile",
+    "ad": "NVIDIA RTX 4060 Low Profile",
+    "gpu_cipi": "4060 Low Profile",
+    "vram": {
+      "boyut_gb": 8,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 8,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 1,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 182,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 115,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Mini-ITX/Micro-ATX kasalar için kart uzunluğu ve slot kalınlığına dikkat edin."
+    },
+    "fiyat_try": 10600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 8
+    },
+    "etiketler": [
+      "geforcertx40",
+      "8gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-amd-rx-6400-low-profile-28",
+    "marka": "AMD",
+    "seri": "Radeon RX 6000",
+    "model": "RX 6400 Low Profile",
+    "ad": "AMD RX 6400 Low Profile",
+    "gpu_cipi": "6400 Low Profile",
+    "vram": {
+      "boyut_gb": 4,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 4,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 1,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 170,
+      "kalinlik_slot": 1.0
+    },
+    "guc": {
+      "tgp_w": 53,
+      "ek_guc_konnektoru": [],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Mini-ITX/Micro-ATX kasalar için kart uzunluğu ve slot kalınlığına dikkat edin."
+    },
+    "fiyat_try": 5800,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "radeonrx6000",
+      "4gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-nvidia-rtx-3050-low-profile-29",
+    "marka": "NVIDIA",
+    "seri": "GeForce RTX 30",
+    "model": "RTX 3050 Low Profile",
+    "ad": "NVIDIA RTX 3050 Low Profile",
+    "gpu_cipi": "3050 Low Profile",
+    "vram": {
+      "boyut_gb": 6,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 4,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 1,
+      "dvi": 1
+    },
+    "boyut": {
+      "uzunluk_mm": 182,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 95,
+      "ek_guc_konnektoru": [
+        "8-pin"
+      ],
+      "onerilen_psu_w": 450
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 4
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Mini-ITX/Micro-ATX kasalar için kart uzunluğu ve slot kalınlığına dikkat edin."
+    },
+    "fiyat_try": 7200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "geforcertx30",
+      "6gb",
+      "gen4"
+    ]
+  },
+  {
+    "id": "gpu-intel-arc-a770-30",
+    "marka": "Intel",
+    "seri": "Arc A7",
+    "model": "Arc A770 16GB",
+    "ad": "Intel Arc A770 16GB",
+    "gpu_cipi": "A770",
+    "vram": {
+      "boyut_gb": 16,
+      "tip": "GDDR6"
+    },
+    "pcie_arayuz": {
+      "surum": "Gen4",
+      "hat_sayisi": 16,
+      "fiziksel": "x16"
+    },
+    "ekran_cikislari": {
+      "hdmi": 1,
+      "dp": 3,
+      "dvi": 0
+    },
+    "boyut": {
+      "uzunluk_mm": 300,
+      "kalinlik_slot": 2.0
+    },
+    "guc": {
+      "tgp_w": 225,
+      "ek_guc_konnektoru": [
+        "2x8-pin"
+      ],
+      "onerilen_psu_w": 650
+    },
+    "ozellikler": {
+      "ray_tracing": true,
+      "av1_encode": true,
+      "resizable_bar": true
+    },
+    "uyumluluk": {
+      "pcie_gereksinimi": {
+        "min_gen": "Gen4",
+        "min_hat": 8
+      },
+      "slot_ihtiyaci": "PCIe x16",
+      "anakart_kontrol": "Anakartta PCIe x16 yuvası olmalı. Gen4 önerilir; Gen3 ile çalışsa da performans düşebilir."
+    },
+    "fiyat_try": 9500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "arca7",
+      "16gb",
+      "gen4"
+    ]
+  }
+]

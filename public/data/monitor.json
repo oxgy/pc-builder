@@ -1,0 +1,1390 @@
+[
+  {
+    "id": "mon-dell-ultrasharp-24-1440p-1",
+    "marka": "Dell",
+    "seri": "UltraSharp",
+    "model": "UltraSharp 24\" 1440p 75Hz",
+    "ad": "Dell UltraSharp 24\" 1440p 75Hz VA",
+    "boyut_inch": 24,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "16:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 75,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 1,
+      "usbhub": 2
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "75hz"
+    ]
+  },
+  {
+    "id": "mon-dell-ultrasharp-25-4K-2",
+    "marka": "Dell",
+    "seri": "UltraSharp",
+    "model": "UltraSharp 25\" 4K 100Hz",
+    "ad": "Dell UltraSharp 25\" 4K 100Hz OLED",
+    "boyut_inch": 25,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "16:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 100,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 1,
+      "usbhub": 2
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 6050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "100hz"
+    ]
+  },
+  {
+    "id": "mon-dell-ultrasharp-27-1080p-3",
+    "marka": "Dell",
+    "seri": "UltraSharp",
+    "model": "UltraSharp 27\" 1080p 120Hz",
+    "ad": "Dell UltraSharp 27\" 1080p 120Hz IPS",
+    "boyut_inch": 27,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "16:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 120,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 1,
+      "usbhub": 2
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 4000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "120hz"
+    ]
+  },
+  {
+    "id": "mon-dell-ultrasharp-29-1440p-4",
+    "marka": "Dell",
+    "seri": "UltraSharp",
+    "model": "UltraSharp 29\" 1440p 144Hz",
+    "ad": "Dell UltraSharp 29\" 1440p 144Hz VA",
+    "boyut_inch": 29,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "21:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 144,
+    "tepkime_ms_gtg": 4,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": true
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 1,
+      "usbhub": 2
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 4850,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "144hz",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "mon-dell-ultrasharp-31.5-4K-5",
+    "marka": "Dell",
+    "seri": "UltraSharp",
+    "model": "UltraSharp 31.5\" 4K 165Hz",
+    "ad": "Dell UltraSharp 31.5\" 4K 165Hz OLED",
+    "boyut_inch": 31.5,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "16:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 165,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 2,
+      "usb_c_dp": 1,
+      "usbhub": 2
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 7400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "165hz"
+    ]
+  },
+  {
+    "id": "mon-dell-ultrasharp-32-1080p-6",
+    "marka": "Dell",
+    "seri": "UltraSharp",
+    "model": "UltraSharp 32\" 1080p 240Hz",
+    "ad": "Dell UltraSharp 32\" 1080p 240Hz IPS",
+    "boyut_inch": 32,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "16:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 240,
+    "tepkime_ms_gtg": 4,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 2,
+      "usb_c_dp": 1,
+      "usbhub": 2
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 5350,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 7
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "240hz"
+    ]
+  },
+  {
+    "id": "mon-dell-ultrasharp-34-1440p-7",
+    "marka": "Dell",
+    "seri": "UltraSharp",
+    "model": "UltraSharp 34\" 1440p 60Hz",
+    "ad": "Dell UltraSharp 34\" 1440p 60Hz VA",
+    "boyut_inch": 34,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "21:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 60,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": true
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 1,
+      "usbhub": 2
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 5150,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "60hz",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "mon-dell-gseries-24-4K-8",
+    "marka": "Dell",
+    "seri": "G Series",
+    "model": "G Series 24\" 4K 75Hz",
+    "ad": "Dell G Series 24\" 4K 75Hz OLED",
+    "boyut_inch": 24,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "16:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 75,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 5600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "75hz"
+    ]
+  },
+  {
+    "id": "mon-dell-gseries-25-1080p-9",
+    "marka": "Dell",
+    "seri": "G Series",
+    "model": "G Series 25\" 1080p 100Hz",
+    "ad": "Dell G Series 25\" 1080p 100Hz IPS",
+    "boyut_inch": 25,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "16:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 100,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 3550,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "100hz"
+    ]
+  },
+  {
+    "id": "mon-dell-gseries-27-1440p-10",
+    "marka": "Dell",
+    "seri": "G Series",
+    "model": "G Series 27\" 1440p 120Hz",
+    "ad": "Dell G Series 27\" 1440p 120Hz VA",
+    "boyut_inch": 27,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "16:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 120,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 4400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "120hz"
+    ]
+  },
+  {
+    "id": "mon-dell-gseries-29-4K-11",
+    "marka": "Dell",
+    "seri": "G Series",
+    "model": "G Series 29\" 4K 144Hz",
+    "ad": "Dell G Series 29\" 4K 144Hz OLED",
+    "boyut_inch": 29,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "21:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 144,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": true
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 6950,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "144hz",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "mon-dell-gseries-31.5-1080p-12",
+    "marka": "Dell",
+    "seri": "G Series",
+    "model": "G Series 31.5\" 1080p 165Hz",
+    "ad": "Dell G Series 31.5\" 1080p 165Hz IPS",
+    "boyut_inch": 31.5,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "16:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 165,
+    "tepkime_ms_gtg": 4,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 2,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 4900,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 13
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "165hz"
+    ]
+  },
+  {
+    "id": "mon-dell-gseries-32-1440p-13",
+    "marka": "Dell",
+    "seri": "G Series",
+    "model": "G Series 32\" 1440p 240Hz",
+    "ad": "Dell G Series 32\" 1440p 240Hz VA",
+    "boyut_inch": 32,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "16:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 240,
+    "tepkime_ms_gtg": 4,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 2,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 5750,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "240hz"
+    ]
+  },
+  {
+    "id": "mon-dell-gseries-34-4K-14",
+    "marka": "Dell",
+    "seri": "G Series",
+    "model": "G Series 34\" 4K 60Hz",
+    "ad": "Dell G Series 34\" 4K 60Hz OLED",
+    "boyut_inch": 34,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "21:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 60,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": true
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 7250,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "60hz",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "mon-dell-pseries-24-1080p-15",
+    "marka": "Dell",
+    "seri": "P Series",
+    "model": "P Series 24\" 1080p 75Hz",
+    "ad": "Dell P Series 24\" 1080p 75Hz IPS",
+    "boyut_inch": 24,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "16:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 75,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 3100,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "75hz"
+    ]
+  },
+  {
+    "id": "mon-dell-pseries-25-1440p-16",
+    "marka": "Dell",
+    "seri": "P Series",
+    "model": "P Series 25\" 1440p 100Hz",
+    "ad": "Dell P Series 25\" 1440p 100Hz VA",
+    "boyut_inch": 25,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "16:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 100,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 3950,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "100hz"
+    ]
+  },
+  {
+    "id": "mon-dell-pseries-27-4K-17",
+    "marka": "Dell",
+    "seri": "P Series",
+    "model": "P Series 27\" 4K 120Hz",
+    "ad": "Dell P Series 27\" 4K 120Hz OLED",
+    "boyut_inch": 27,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "16:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 120,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 6500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "120hz"
+    ]
+  },
+  {
+    "id": "mon-dell-pseries-29-1080p-18",
+    "marka": "Dell",
+    "seri": "P Series",
+    "model": "P Series 29\" 1080p 144Hz",
+    "ad": "Dell P Series 29\" 1080p 144Hz IPS",
+    "boyut_inch": 29,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "21:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 144,
+    "tepkime_ms_gtg": 4,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": true
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 4450,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 19
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "144hz",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "mon-dell-pseries-31.5-1440p-19",
+    "marka": "Dell",
+    "seri": "P Series",
+    "model": "P Series 31.5\" 1440p 165Hz",
+    "ad": "Dell P Series 31.5\" 1440p 165Hz VA",
+    "boyut_inch": 31.5,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "16:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 165,
+    "tepkime_ms_gtg": 4,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 2,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 5300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "165hz"
+    ]
+  },
+  {
+    "id": "mon-dell-pseries-32-4K-20",
+    "marka": "Dell",
+    "seri": "P Series",
+    "model": "P Series 32\" 4K 240Hz",
+    "ad": "Dell P Series 32\" 4K 240Hz OLED",
+    "boyut_inch": 32,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "16:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 240,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 2,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 7850,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 21
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "240hz"
+    ]
+  },
+  {
+    "id": "mon-dell-pseries-34-1080p-21",
+    "marka": "Dell",
+    "seri": "P Series",
+    "model": "P Series 34\" 1080p 60Hz",
+    "ad": "Dell P Series 34\" 1080p 60Hz IPS",
+    "boyut_inch": 34,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "21:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 60,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": true
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 4750,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "60hz",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "mon-lg-ultragear-24-1440p-22",
+    "marka": "LG",
+    "seri": "UltraGear",
+    "model": "UltraGear 24\" 1440p 75Hz",
+    "ad": "LG UltraGear 24\" 1440p 75Hz VA",
+    "boyut_inch": 24,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "16:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 75,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "75hz"
+    ]
+  },
+  {
+    "id": "mon-lg-ultragear-25-4K-23",
+    "marka": "LG",
+    "seri": "UltraGear",
+    "model": "UltraGear 25\" 4K 100Hz",
+    "ad": "LG UltraGear 25\" 4K 100Hz OLED",
+    "boyut_inch": 25,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "16:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 100,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 6050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "100hz"
+    ]
+  },
+  {
+    "id": "mon-lg-ultragear-27-1080p-24",
+    "marka": "LG",
+    "seri": "UltraGear",
+    "model": "UltraGear 27\" 1080p 120Hz",
+    "ad": "LG UltraGear 27\" 1080p 120Hz IPS",
+    "boyut_inch": 27,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "16:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 120,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 4000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 25
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "120hz"
+    ]
+  },
+  {
+    "id": "mon-lg-ultragear-29-1440p-25",
+    "marka": "LG",
+    "seri": "UltraGear",
+    "model": "UltraGear 29\" 1440p 144Hz",
+    "ad": "LG UltraGear 29\" 1440p 144Hz VA",
+    "boyut_inch": 29,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "21:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 144,
+    "tepkime_ms_gtg": 4,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": true
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 4850,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 1
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "144hz",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "mon-lg-ultragear-31.5-4K-26",
+    "marka": "LG",
+    "seri": "UltraGear",
+    "model": "UltraGear 31.5\" 4K 165Hz",
+    "ad": "LG UltraGear 31.5\" 4K 165Hz OLED",
+    "boyut_inch": 31.5,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "16:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 165,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 2,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 7400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "165hz"
+    ]
+  },
+  {
+    "id": "mon-lg-ultragear-32-1080p-27",
+    "marka": "LG",
+    "seri": "UltraGear",
+    "model": "UltraGear 32\" 1080p 240Hz",
+    "ad": "LG UltraGear 32\" 1080p 240Hz IPS",
+    "boyut_inch": 32,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "16:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 240,
+    "tepkime_ms_gtg": 4,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 2,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 5350,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "240hz"
+    ]
+  },
+  {
+    "id": "mon-lg-ultragear-34-1440p-28",
+    "marka": "LG",
+    "seri": "UltraGear",
+    "model": "UltraGear 34\" 1440p 60Hz",
+    "ad": "LG UltraGear 34\" 1440p 60Hz VA",
+    "boyut_inch": 34,
+    "cozunurluk": {
+      "ad": "1440p",
+      "gen": 2560,
+      "yuk": 1440,
+      "oran": "21:9"
+    },
+    "panel": "VA",
+    "yenileme_hizi_hz": 60,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": true,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": true
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 5150,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "1440p",
+      "va",
+      "60hz",
+      "ultrawide"
+    ]
+  },
+  {
+    "id": "mon-lg-ultrafine-24-4K-29",
+    "marka": "LG",
+    "seri": "UltraFine",
+    "model": "UltraFine 24\" 4K 75Hz",
+    "ad": "LG UltraFine 24\" 4K 75Hz OLED",
+    "boyut_inch": 24,
+    "cozunurluk": {
+      "ad": "4K",
+      "gen": 3840,
+      "yuk": 2160,
+      "oran": "16:9"
+    },
+    "panel": "OLED",
+    "yenileme_hizi_hz": 75,
+    "tepkime_ms_gtg": 1,
+    "ozellikler": {
+      "hdr": "HDR10",
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": false,
+      "swivel": false,
+      "pivot": false
+    },
+    "fiyat_try": 5600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "4k",
+      "oled",
+      "75hz"
+    ]
+  },
+  {
+    "id": "mon-lg-ultrafine-25-1080p-30",
+    "marka": "LG",
+    "seri": "UltraFine",
+    "model": "UltraFine 25\" 1080p 100Hz",
+    "ad": "LG UltraFine 25\" 1080p 100Hz IPS",
+    "boyut_inch": 25,
+    "cozunurluk": {
+      "ad": "1080p",
+      "gen": 1920,
+      "yuk": 1080,
+      "oran": "16:9"
+    },
+    "panel": "IPS",
+    "yenileme_hizi_hz": 100,
+    "tepkime_ms_gtg": 5,
+    "ozellikler": {
+      "hdr": null,
+      "fre_sync": false,
+      "g_sync_compatible": false,
+      "curved": false,
+      "ultrawide": false
+    },
+    "baglantilar": {
+      "hdmi": 2,
+      "dp": 1,
+      "usb_c_dp": 0,
+      "usbhub": 0
+    },
+    "ergonomi": {
+      "tilt": true,
+      "height": true,
+      "swivel": true,
+      "pivot": false
+    },
+    "fiyat_try": 3550,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "1080p",
+      "ips",
+      "100hz"
+    ]
+  }
+]

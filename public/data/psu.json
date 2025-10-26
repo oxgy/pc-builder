@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "psu-corsair-rmx-450-1",
+    "marka": "Corsair",
+    "seri": "RMx",
+    "model": "RMx 450W",
+    "ad": "Corsair RMx 450W 80+ Bronze",
+    "guc_w": 450,
+    "efficiency": "80+ Bronze",
+    "form_factor": "SFX",
+    "moduler": "non",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 200,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2380,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "80+bronze",
+      "sfx",
+      "450w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rmx-550-2",
+    "marka": "Corsair",
+    "seri": "RMx",
+    "model": "RMx 550W",
+    "ad": "Corsair RMx 550W 80+ Bronze",
+    "guc_w": 550,
+    "efficiency": "80+ Bronze",
+    "form_factor": "SFX-L",
+    "moduler": "non",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 300,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "80+bronze",
+      "sfx-l",
+      "550w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rmx-650-3",
+    "marka": "Corsair",
+    "seri": "RMx",
+    "model": "RMx 650W",
+    "ad": "Corsair RMx 650W 80+ Gold",
+    "guc_w": 650,
+    "efficiency": "80+ Gold",
+    "form_factor": "ATX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 400,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2420,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "80+gold",
+      "atx",
+      "650w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rmx-750-4",
+    "marka": "Corsair",
+    "seri": "RMx",
+    "model": "RMx 750W",
+    "ad": "Corsair RMx 750W 80+ Gold",
+    "guc_w": 750,
+    "efficiency": "80+ Gold",
+    "form_factor": "SFX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 500,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3240,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "80+gold",
+      "sfx",
+      "750w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rmx-850-5",
+    "marka": "Corsair",
+    "seri": "RMx",
+    "model": "RMx 850W",
+    "ad": "Corsair RMx 850W 80+ Gold",
+    "guc_w": 850,
+    "efficiency": "80+ Gold",
+    "form_factor": "SFX-L",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 595.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3360,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "80+gold",
+      "sfx-l",
+      "850w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rmx-1000-6",
+    "marka": "Corsair",
+    "seri": "RMx",
+    "model": "RMx 1000W",
+    "ad": "Corsair RMx 1000W 80+ Platinum",
+    "guc_w": 1000,
+    "efficiency": "80+ Platinum",
+    "form_factor": "ATX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 4,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 700.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 7
+    },
+    "etiketler": [
+      "80+platinum",
+      "atx",
+      "1000w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rme-450-7",
+    "marka": "Corsair",
+    "seri": "RMe",
+    "model": "RMe 450W",
+    "ad": "Corsair RMe 450W 80+ Platinum",
+    "guc_w": 450,
+    "efficiency": "80+ Platinum",
+    "form_factor": "SFX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 200,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3380,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "80+platinum",
+      "sfx",
+      "450w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rme-550-8",
+    "marka": "Corsair",
+    "seri": "RMe",
+    "model": "RMe 550W",
+    "ad": "Corsair RMe 550W 80+ Platinum",
+    "guc_w": 550,
+    "efficiency": "80+ Platinum",
+    "form_factor": "SFX-L",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 300,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "80+platinum",
+      "sfx-l",
+      "550w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rme-650-9",
+    "marka": "Corsair",
+    "seri": "RMe",
+    "model": "RMe 650W",
+    "ad": "Corsair RMe 650W 80+ Titanium",
+    "guc_w": 650,
+    "efficiency": "80+ Titanium",
+    "form_factor": "ATX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 400,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3420,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "80+titanium",
+      "atx",
+      "650w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rme-750-10",
+    "marka": "Corsair",
+    "seri": "RMe",
+    "model": "RMe 750W",
+    "ad": "Corsair RMe 750W 80+ Titanium",
+    "guc_w": 750,
+    "efficiency": "80+ Titanium",
+    "form_factor": "SFX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 500,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 4240,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "etiketler": [
+      "80+titanium",
+      "sfx",
+      "750w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rme-850-11",
+    "marka": "Corsair",
+    "seri": "RMe",
+    "model": "RMe 850W",
+    "ad": "Corsair RMe 850W 80+ Titanium",
+    "guc_w": 850,
+    "efficiency": "80+ Titanium",
+    "form_factor": "SFX-L",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 595.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 4360,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "80+titanium",
+      "sfx-l",
+      "850w"
+    ]
+  },
+  {
+    "id": "psu-corsair-rme-1000-12",
+    "marka": "Corsair",
+    "seri": "RMe",
+    "model": "RMe 1000W",
+    "ad": "Corsair RMe 1000W 80+ Bronze",
+    "guc_w": 1000,
+    "efficiency": "80+ Bronze",
+    "form_factor": "ATX",
+    "moduler": "semi",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 4,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 700.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 13
+    },
+    "etiketler": [
+      "80+bronze",
+      "atx",
+      "1000w"
+    ]
+  },
+  {
+    "id": "psu-corsair-sf-450-13",
+    "marka": "Corsair",
+    "seri": "SF",
+    "model": "SF 450W",
+    "ad": "Corsair SF 450W 80+ Bronze",
+    "guc_w": 450,
+    "efficiency": "80+ Bronze",
+    "form_factor": "SFX",
+    "moduler": "non",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 200,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2380,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "80+bronze",
+      "sfx",
+      "450w"
+    ]
+  },
+  {
+    "id": "psu-corsair-sf-550-14",
+    "marka": "Corsair",
+    "seri": "SF",
+    "model": "SF 550W",
+    "ad": "Corsair SF 550W 80+ Bronze",
+    "guc_w": 550,
+    "efficiency": "80+ Bronze",
+    "form_factor": "SFX-L",
+    "moduler": "non",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 300,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2500,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "80+bronze",
+      "sfx-l",
+      "550w"
+    ]
+  },
+  {
+    "id": "psu-corsair-sf-650-15",
+    "marka": "Corsair",
+    "seri": "SF",
+    "model": "SF 650W",
+    "ad": "Corsair SF 650W 80+ Gold",
+    "guc_w": 650,
+    "efficiency": "80+ Gold",
+    "form_factor": "ATX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 400,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2420,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "etiketler": [
+      "80+gold",
+      "atx",
+      "650w"
+    ]
+  },
+  {
+    "id": "psu-corsair-sf-750-16",
+    "marka": "Corsair",
+    "seri": "SF",
+    "model": "SF 750W",
+    "ad": "Corsair SF 750W 80+ Gold",
+    "guc_w": 750,
+    "efficiency": "80+ Gold",
+    "form_factor": "SFX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 500,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3240,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "80+gold",
+      "sfx",
+      "750w"
+    ]
+  },
+  {
+    "id": "psu-corsair-sf-850-17",
+    "marka": "Corsair",
+    "seri": "SF",
+    "model": "SF 850W",
+    "ad": "Corsair SF 850W 80+ Gold",
+    "guc_w": 850,
+    "efficiency": "80+ Gold",
+    "form_factor": "SFX-L",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 595.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3360,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "80+gold",
+      "sfx-l",
+      "850w"
+    ]
+  },
+  {
+    "id": "psu-corsair-sf-1000-18",
+    "marka": "Corsair",
+    "seri": "SF",
+    "model": "SF 1000W",
+    "ad": "Corsair SF 1000W 80+ Platinum",
+    "guc_w": 1000,
+    "efficiency": "80+ Platinum",
+    "form_factor": "ATX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 4,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 700.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 19
+    },
+    "etiketler": [
+      "80+platinum",
+      "atx",
+      "1000w"
+    ]
+  },
+  {
+    "id": "psu-corsair-hx-450-19",
+    "marka": "Corsair",
+    "seri": "HX",
+    "model": "HX 450W",
+    "ad": "Corsair HX 450W 80+ Platinum",
+    "guc_w": 450,
+    "efficiency": "80+ Platinum",
+    "form_factor": "SFX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 200,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3380,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "80+platinum",
+      "sfx",
+      "450w"
+    ]
+  },
+  {
+    "id": "psu-corsair-hx-550-20",
+    "marka": "Corsair",
+    "seri": "HX",
+    "model": "HX 550W",
+    "ad": "Corsair HX 550W 80+ Platinum",
+    "guc_w": 550,
+    "efficiency": "80+ Platinum",
+    "form_factor": "SFX-L",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 300,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 21
+    },
+    "etiketler": [
+      "80+platinum",
+      "sfx-l",
+      "550w"
+    ]
+  },
+  {
+    "id": "psu-corsair-hx-650-21",
+    "marka": "Corsair",
+    "seri": "HX",
+    "model": "HX 650W",
+    "ad": "Corsair HX 650W 80+ Titanium",
+    "guc_w": 650,
+    "efficiency": "80+ Titanium",
+    "form_factor": "ATX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 400,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3420,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "80+titanium",
+      "atx",
+      "650w"
+    ]
+  },
+  {
+    "id": "psu-corsair-hx-750-22",
+    "marka": "Corsair",
+    "seri": "HX",
+    "model": "HX 750W",
+    "ad": "Corsair HX 750W 80+ Titanium",
+    "guc_w": 750,
+    "efficiency": "80+ Titanium",
+    "form_factor": "SFX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 500,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 4240,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "etiketler": [
+      "80+titanium",
+      "sfx",
+      "750w"
+    ]
+  },
+  {
+    "id": "psu-corsair-hx-850-23",
+    "marka": "Corsair",
+    "seri": "HX",
+    "model": "HX 850W",
+    "ad": "Corsair HX 850W 80+ Titanium",
+    "guc_w": 850,
+    "efficiency": "80+ Titanium",
+    "form_factor": "SFX-L",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 595.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 4360,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "etiketler": [
+      "80+titanium",
+      "sfx-l",
+      "850w"
+    ]
+  },
+  {
+    "id": "psu-corsair-hx-1000-24",
+    "marka": "Corsair",
+    "seri": "HX",
+    "model": "HX 1000W",
+    "ad": "Corsair HX 1000W 80+ Bronze",
+    "guc_w": 1000,
+    "efficiency": "80+ Bronze",
+    "form_factor": "ATX",
+    "moduler": "semi",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 4,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 700.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 25
+    },
+    "etiketler": [
+      "80+bronze",
+      "atx",
+      "1000w"
+    ]
+  },
+  {
+    "id": "psu-seasonic-focusgx-450-25",
+    "marka": "Seasonic",
+    "seri": "Focus GX",
+    "model": "Focus GX 450W",
+    "ad": "Seasonic Focus GX 450W 80+ Bronze",
+    "guc_w": 450,
+    "efficiency": "80+ Bronze",
+    "form_factor": "SFX",
+    "moduler": "non",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 200,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2380,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 1
+    },
+    "etiketler": [
+      "80+bronze",
+      "sfx",
+      "450w"
+    ]
+  },
+  {
+    "id": "psu-seasonic-focusgx-550-26",
+    "marka": "Seasonic",
+    "seri": "Focus GX",
+    "model": "Focus GX 550W",
+    "ad": "Seasonic Focus GX 550W 80+ Bronze",
+    "guc_w": 550,
+    "efficiency": "80+ Bronze",
+    "form_factor": "SFX-L",
+    "moduler": "non",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 300,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "80+bronze",
+      "sfx-l",
+      "550w"
+    ]
+  },
+  {
+    "id": "psu-seasonic-focusgx-650-27",
+    "marka": "Seasonic",
+    "seri": "Focus GX",
+    "model": "Focus GX 650W",
+    "ad": "Seasonic Focus GX 650W 80+ Gold",
+    "guc_w": 650,
+    "efficiency": "80+ Gold",
+    "form_factor": "ATX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 2,
+      "pcie_12vhpwr_adet": 0,
+      "eps_8pin_adet": 1,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 400,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 2420,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "80+gold",
+      "atx",
+      "650w"
+    ]
+  },
+  {
+    "id": "psu-seasonic-focusgx-750-28",
+    "marka": "Seasonic",
+    "seri": "Focus GX",
+    "model": "Focus GX 750W",
+    "ad": "Seasonic Focus GX 750W 80+ Gold",
+    "guc_w": 750,
+    "efficiency": "80+ Gold",
+    "form_factor": "SFX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 125
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 500,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3240,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "80+gold",
+      "sfx",
+      "750w"
+    ]
+  },
+  {
+    "id": "psu-seasonic-focusgx-850-29",
+    "marka": "Seasonic",
+    "seri": "Focus GX",
+    "model": "Focus GX 850W",
+    "ad": "Seasonic Focus GX 850W 80+ Gold",
+    "guc_w": 850,
+    "efficiency": "80+ Gold",
+    "form_factor": "SFX-L",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 130
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 3,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 4
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 595.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3360,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "80+gold",
+      "sfx-l",
+      "850w"
+    ]
+  },
+  {
+    "id": "psu-seasonic-focusgx-1000-30",
+    "marka": "Seasonic",
+    "seri": "Focus GX",
+    "model": "Focus GX 1000W",
+    "ad": "Seasonic Focus GX 1000W 80+ Platinum",
+    "guc_w": 1000,
+    "efficiency": "80+ Platinum",
+    "form_factor": "ATX",
+    "moduler": "full",
+    "boyut": {
+      "uzunluk_mm": 140
+    },
+    "baglantilar": {
+      "pcie_8pin_adet": 4,
+      "pcie_12vhpwr_adet": 1,
+      "eps_8pin_adet": 2,
+      "sata_adet": 6
+    },
+    "korumalar": [
+      "OVP",
+      "UVP",
+      "OCP",
+      "OPP",
+      "SCP",
+      "OTP"
+    ],
+    "uyumluluk": {
+      "onerilen_gpu_tgp_max_w": 700.0,
+      "oneri": "GPU güç konnektör sayısı ve PSU watt değeri yeterli olmalı. 12VHPWR gerekiyorsa uygun kablo bulunmalı."
+    },
+    "fiyat_try": 3400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "80+platinum",
+      "atx",
+      "1000w"
+    ]
+  }
+]

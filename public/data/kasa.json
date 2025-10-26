@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "kasa-nzxt-h5flow-black-1",
+    "marka": "NZXT",
+    "model": "H5 Flow Black",
+    "ad": "NZXT H5 Flow Black",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 360,
+    "cpu_sogutucu_yukseklik_max_mm": 165,
+    "psu_destek": [
+      "ATX",
+      "SFX"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 500,
+      "efficiency": "80+ Bronze",
+      "form_factor": "ATX",
+      "moduler": "non",
+      "baglantilar": {
+        "pcie_8pin_adet": 2,
+        "pcie_12vhpwr_adet": 0,
+        "eps_8pin_adet": 1,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "airflow"
+    ]
+  },
+  {
+    "id": "kasa-nzxt-h5flow-white-2",
+    "marka": "NZXT",
+    "model": "H5 Flow White",
+    "ad": "NZXT H5 Flow White",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 400,
+    "cpu_sogutucu_yukseklik_max_mm": 170,
+    "psu_destek": [
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "airflow"
+    ]
+  },
+  {
+    "id": "kasa-nzxt-h7flow-black-3",
+    "marka": "NZXT",
+    "model": "H7 Flow Black",
+    "ad": "NZXT H7 Flow Black",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 330,
+    "cpu_sogutucu_yukseklik_max_mm": 185,
+    "psu_destek": [
+      "ATX",
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "airflow"
+    ]
+  },
+  {
+    "id": "kasa-nzxt-h7flow-white-4",
+    "marka": "NZXT",
+    "model": "H7 Flow White",
+    "ad": "NZXT H7 Flow White",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 355,
+    "cpu_sogutucu_yukseklik_max_mm": 158,
+    "psu_destek": [
+      "ATX"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 750,
+      "efficiency": "80+ Gold",
+      "form_factor": "ATX",
+      "moduler": "semi",
+      "baglantilar": {
+        "pcie_8pin_adet": 3,
+        "pcie_12vhpwr_adet": 1,
+        "eps_8pin_adet": 2,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "airflow"
+    ]
+  },
+  {
+    "id": "kasa-nzxt-h6-black-5",
+    "marka": "NZXT",
+    "model": "H6 Black",
+    "ad": "NZXT H6 Black",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 320,
+    "cpu_sogutucu_yukseklik_max_mm": 165,
+    "psu_destek": [
+      "ATX",
+      "SFX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-nzxt-h6-white-6",
+    "marka": "NZXT",
+    "model": "H6 White",
+    "ad": "NZXT H6 White",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 360,
+    "cpu_sogutucu_yukseklik_max_mm": 170,
+    "psu_destek": [
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 7
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-lianli-lancool216-black-7",
+    "marka": "Lian Li",
+    "model": "LANCOOL 216 Black",
+    "ad": "Lian Li LANCOOL 216 Black",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 400,
+    "cpu_sogutucu_yukseklik_max_mm": 185,
+    "psu_destek": [
+      "ATX",
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 600,
+      "efficiency": "80+ Titanium",
+      "form_factor": "ATX",
+      "moduler": "non",
+      "baglantilar": {
+        "pcie_8pin_adet": 2,
+        "pcie_12vhpwr_adet": 0,
+        "eps_8pin_adet": 1,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 8
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-lianli-lancool216-white-8",
+    "marka": "Lian Li",
+    "model": "LANCOOL 216 White",
+    "ad": "Lian Li LANCOOL 216 White",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 330,
+    "cpu_sogutucu_yukseklik_max_mm": 158,
+    "psu_destek": [
+      "ATX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-lianli-o11dynamic-black-9",
+    "marka": "Lian Li",
+    "model": "O11 Dynamic Black",
+    "ad": "Lian Li O11 Dynamic Black",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 355,
+    "cpu_sogutucu_yukseklik_max_mm": 165,
+    "psu_destek": [
+      "ATX",
+      "SFX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-lianli-o11dynamic-white-10",
+    "marka": "Lian Li",
+    "model": "O11 Dynamic White",
+    "ad": "Lian Li O11 Dynamic White",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 320,
+    "cpu_sogutucu_yukseklik_max_mm": 170,
+    "psu_destek": [
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 850,
+      "efficiency": "80+ Bronze",
+      "form_factor": "ATX",
+      "moduler": "semi",
+      "baglantilar": {
+        "pcie_8pin_adet": 3,
+        "pcie_12vhpwr_adet": 1,
+        "eps_8pin_adet": 2,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-lianli-o11airmini-black-11",
+    "marka": "Lian Li",
+    "model": "O11 Air Mini Black",
+    "ad": "Lian Li O11 Air Mini Black",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 360,
+    "cpu_sogutucu_yukseklik_max_mm": 185,
+    "psu_destek": [
+      "ATX",
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-lianli-o11airmini-white-12",
+    "marka": "Lian Li",
+    "model": "O11 Air Mini White",
+    "ad": "Lian Li O11 Air Mini White",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 400,
+    "cpu_sogutucu_yukseklik_max_mm": 158,
+    "psu_destek": [
+      "ATX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 13
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-corsair-4000dairflow-black-13",
+    "marka": "Corsair",
+    "model": "4000D Airflow Black",
+    "ad": "Corsair 4000D Airflow Black",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 330,
+    "cpu_sogutucu_yukseklik_max_mm": 165,
+    "psu_destek": [
+      "ATX",
+      "SFX"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 650,
+      "efficiency": "80+ Platinum",
+      "form_factor": "ATX",
+      "moduler": "semi",
+      "baglantilar": {
+        "pcie_8pin_adet": 2,
+        "pcie_12vhpwr_adet": 0,
+        "eps_8pin_adet": 1,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-corsair-4000dairflow-white-14",
+    "marka": "Corsair",
+    "model": "4000D Airflow White",
+    "ad": "Corsair 4000D Airflow White",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 355,
+    "cpu_sogutucu_yukseklik_max_mm": 170,
+    "psu_destek": [
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 15
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-corsair-5000dairflow-black-15",
+    "marka": "Corsair",
+    "model": "5000D Airflow Black",
+    "ad": "Corsair 5000D Airflow Black",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 320,
+    "cpu_sogutucu_yukseklik_max_mm": 185,
+    "psu_destek": [
+      "ATX",
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-corsair-5000dairflow-white-16",
+    "marka": "Corsair",
+    "model": "5000D Airflow White",
+    "ad": "Corsair 5000D Airflow White",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 360,
+    "cpu_sogutucu_yukseklik_max_mm": 158,
+    "psu_destek": [
+      "ATX"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 500,
+      "efficiency": "80+ Titanium",
+      "form_factor": "ATX",
+      "moduler": "non",
+      "baglantilar": {
+        "pcie_8pin_adet": 2,
+        "pcie_12vhpwr_adet": 0,
+        "eps_8pin_adet": 1,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-corsair-2000dairflow-black-17",
+    "marka": "Corsair",
+    "model": "2000D Airflow Black",
+    "ad": "Corsair 2000D Airflow Black",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 400,
+    "cpu_sogutucu_yukseklik_max_mm": 165,
+    "psu_destek": [
+      "ATX",
+      "SFX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-corsair-2000dairflow-white-18",
+    "marka": "Corsair",
+    "model": "2000D Airflow White",
+    "ad": "Corsair 2000D Airflow White",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 330,
+    "cpu_sogutucu_yukseklik_max_mm": 170,
+    "psu_destek": [
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 19
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-fractaldesign-meshify2-black-19",
+    "marka": "Fractal Design",
+    "model": "Meshify 2 Black",
+    "ad": "Fractal Design Meshify 2 Black",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 355,
+    "cpu_sogutucu_yukseklik_max_mm": 185,
+    "psu_destek": [
+      "ATX",
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 750,
+      "efficiency": "80+ Gold",
+      "form_factor": "ATX",
+      "moduler": "semi",
+      "baglantilar": {
+        "pcie_8pin_adet": 3,
+        "pcie_12vhpwr_adet": 1,
+        "eps_8pin_adet": 2,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "airflow"
+    ]
+  },
+  {
+    "id": "kasa-fractaldesign-meshify2-white-20",
+    "marka": "Fractal Design",
+    "model": "Meshify 2 White",
+    "ad": "Fractal Design Meshify 2 White",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 320,
+    "cpu_sogutucu_yukseklik_max_mm": 158,
+    "psu_destek": [
+      "ATX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "airflow"
+    ]
+  },
+  {
+    "id": "kasa-fractaldesign-popair-black-21",
+    "marka": "Fractal Design",
+    "model": "Pop Air Black",
+    "ad": "Fractal Design Pop Air Black",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 360,
+    "cpu_sogutucu_yukseklik_max_mm": 165,
+    "psu_destek": [
+      "ATX",
+      "SFX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 22
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-fractaldesign-popair-white-22",
+    "marka": "Fractal Design",
+    "model": "Pop Air White",
+    "ad": "Fractal Design Pop Air White",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 400,
+    "cpu_sogutucu_yukseklik_max_mm": 170,
+    "psu_destek": [
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 600,
+      "efficiency": "80+ Platinum",
+      "form_factor": "ATX",
+      "moduler": "non",
+      "baglantilar": {
+        "pcie_8pin_adet": 2,
+        "pcie_12vhpwr_adet": 0,
+        "eps_8pin_adet": 1,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-fractaldesign-torrent-black-23",
+    "marka": "Fractal Design",
+    "model": "Torrent Black",
+    "ad": "Fractal Design Torrent Black",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 330,
+    "cpu_sogutucu_yukseklik_max_mm": 185,
+    "psu_destek": [
+      "ATX",
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-fractaldesign-torrent-white-24",
+    "marka": "Fractal Design",
+    "model": "Torrent White",
+    "ad": "Fractal Design Torrent White",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 355,
+    "cpu_sogutucu_yukseklik_max_mm": 158,
+    "psu_destek": [
+      "ATX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 25
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-coolermaster-nr200p-black-25",
+    "marka": "Cooler Master",
+    "model": "NR200P Black",
+    "ad": "Cooler Master NR200P Black",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 320,
+    "cpu_sogutucu_yukseklik_max_mm": 165,
+    "psu_destek": [
+      "ATX",
+      "SFX"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 850,
+      "efficiency": "80+ Bronze",
+      "form_factor": "ATX",
+      "moduler": "semi",
+      "baglantilar": {
+        "pcie_8pin_adet": 3,
+        "pcie_12vhpwr_adet": 1,
+        "eps_8pin_adet": 2,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-coolermaster-nr200p-white-26",
+    "marka": "Cooler Master",
+    "model": "NR200P White",
+    "ad": "Cooler Master NR200P White",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 360,
+    "cpu_sogutucu_yukseklik_max_mm": 170,
+    "psu_destek": [
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-coolermaster-td500mesh-black-27",
+    "marka": "Cooler Master",
+    "model": "TD500 Mesh Black",
+    "ad": "Cooler Master TD500 Mesh Black",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 400,
+    "cpu_sogutucu_yukseklik_max_mm": 185,
+    "psu_destek": [
+      "ATX",
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "airflow"
+    ]
+  },
+  {
+    "id": "kasa-coolermaster-td500mesh-white-28",
+    "marka": "Cooler Master",
+    "model": "TD500 Mesh White",
+    "ad": "Cooler Master TD500 Mesh White",
+    "form_factor": "Micro-ATX Tower",
+    "mobo_destek": [
+      "Micro-ATX",
+      "Mini-ITX",
+      "ATX"
+    ],
+    "gpu_uzunluk_max_mm": 330,
+    "cpu_sogutucu_yukseklik_max_mm": 158,
+    "psu_destek": [
+      "ATX"
+    ],
+    "psu_tumlesik": true,
+    "psu_dahili": {
+      "guc_w": 650,
+      "efficiency": "80+ Gold",
+      "form_factor": "ATX",
+      "moduler": "semi",
+      "baglantilar": {
+        "pcie_8pin_adet": 2,
+        "pcie_12vhpwr_adet": 0,
+        "eps_8pin_adet": 1,
+        "sata_adet": 6
+      }
+    },
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280
+      ],
+      "top": [
+        240
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 0,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "fiyat_try": 2800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "micro-atxtower",
+      "airflow"
+    ]
+  },
+  {
+    "id": "kasa-coolermaster-masterboxq300l-black-29",
+    "marka": "Cooler Master",
+    "model": "MasterBox Q300L Black",
+    "ad": "Cooler Master MasterBox Q300L Black",
+    "form_factor": "Mini-ITX Tower",
+    "mobo_destek": [
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 355,
+    "cpu_sogutucu_yukseklik_max_mm": 165,
+    "psu_destek": [
+      "ATX",
+      "SFX"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 0,
+      "arka": 0
+    },
+    "radyator_destek": {
+      "front": [
+        120,
+        240
+      ],
+      "top": [
+        120
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 1,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "fiyat_try": 1800,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "mini-itxtower",
+      "solid"
+    ]
+  },
+  {
+    "id": "kasa-coolermaster-masterboxq300l-white-30",
+    "marka": "Cooler Master",
+    "model": "MasterBox Q300L White",
+    "ad": "Cooler Master MasterBox Q300L White",
+    "form_factor": "ATX Mid Tower",
+    "mobo_destek": [
+      "E-ATX",
+      "ATX",
+      "Micro-ATX",
+      "Mini-ITX"
+    ],
+    "gpu_uzunluk_max_mm": 320,
+    "cpu_sogutucu_yukseklik_max_mm": 170,
+    "psu_destek": [
+      "SFX",
+      "SFX-L"
+    ],
+    "psu_tumlesik": false,
+    "psu_dahili": null,
+    "hava_akisi": {
+      "on": 2,
+      "ust": 2,
+      "arka": 1
+    },
+    "fanlar_dahil": {
+      "on": 2,
+      "arka": 1
+    },
+    "radyator_destek": {
+      "front": [
+        240,
+        280,
+        360
+      ],
+      "top": [
+        240,
+        280
+      ],
+      "rear": [
+        120
+      ]
+    },
+    "on_panel": {
+      "usb_a": 2,
+      "usb_c": 1,
+      "audio": 1
+    },
+    "boyutlar_mm": {
+      "yukseklik": 460,
+      "genislik": 210,
+      "derinlik": 450
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 2200,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart form faktörü bu kasanın desteklediği listede olmalı. GPU uzunluğu ve CPU soğutucu yüksekliği sınırlarını aşmayın.",
+      "psu_kontrol": "PSU form faktörü kasanın desteklediği türlerden biri olmalı. Tümleşik PSU varsa güç ve konnektörleri doğrulayın."
+    },
+    "etiketler": [
+      "atxmidtower",
+      "solid"
+    ]
+  }
+]

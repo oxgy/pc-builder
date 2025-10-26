@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "dep-samsung-870evo-250-1",
+    "marka": "Samsung",
+    "model": "870 EVO 250",
+    "ad": "Samsung 870 EVO 250",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 250,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 75,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-samsung-870evo-500-2",
+    "marka": "Samsung",
+    "model": "870 EVO 500",
+    "ad": "Samsung 870 EVO 500",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 500,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 150,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-samsung-870evo-1000-3",
+    "marka": "Samsung",
+    "model": "870 EVO 1",
+    "ad": "Samsung 870 EVO 1",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 1000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 300,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-samsung-870evo-2000-4",
+    "marka": "Samsung",
+    "model": "870 EVO 2",
+    "ad": "Samsung 870 EVO 2",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 2000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 600,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-samsung-980-250-5",
+    "marka": "Samsung",
+    "model": "980 250",
+    "ad": "Samsung 980 250",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 250,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 75,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-samsung-980-500-6",
+    "marka": "Samsung",
+    "model": "980 500",
+    "ad": "Samsung 980 500",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 500,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 150,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1400,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-samsung-980-1000-7",
+    "marka": "Samsung",
+    "model": "980 1",
+    "ad": "Samsung 980 1",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 1000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 300,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 8
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-samsung-980-2000-8",
+    "marka": "Samsung",
+    "model": "980 2",
+    "ad": "Samsung 980 2",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 2000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 600,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-wd-bluesa510-250-9",
+    "marka": "WD",
+    "model": "Blue SA510 250",
+    "ad": "WD Blue SA510 250",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 250,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 75,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-wd-bluesa510-500-10",
+    "marka": "WD",
+    "model": "Blue SA510 500",
+    "ad": "WD Blue SA510 500",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 500,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 150,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-wd-bluesa510-1000-11",
+    "marka": "WD",
+    "model": "Blue SA510 1",
+    "ad": "WD Blue SA510 1",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 1000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 300,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-wd-bluesa510-2000-12",
+    "marka": "WD",
+    "model": "Blue SA510 2",
+    "ad": "WD Blue SA510 2",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 2000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 600,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-wd-blacksn770-250-13",
+    "marka": "WD",
+    "model": "Black SN770 250",
+    "ad": "WD Black SN770 250",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 250,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 75,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-wd-blacksn770-500-14",
+    "marka": "WD",
+    "model": "Black SN770 500",
+    "ad": "WD Black SN770 500",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 500,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 150,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 15
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-wd-blacksn770-1000-15",
+    "marka": "WD",
+    "model": "Black SN770 1",
+    "ad": "WD Black SN770 1",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 1000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 300,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-wd-blacksn770-2000-16",
+    "marka": "WD",
+    "model": "Black SN770 2",
+    "ad": "WD Black SN770 2",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 2000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 600,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-crucial-mx500-250-17",
+    "marka": "Crucial",
+    "model": "MX500 250",
+    "ad": "Crucial MX500 250",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 250,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 75,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-crucial-mx500-500-18",
+    "marka": "Crucial",
+    "model": "MX500 500",
+    "ad": "Crucial MX500 500",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 500,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 150,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1400,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-crucial-mx500-1000-19",
+    "marka": "Crucial",
+    "model": "MX500 1",
+    "ad": "Crucial MX500 1",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 1000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 300,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-crucial-mx500-2000-20",
+    "marka": "Crucial",
+    "model": "MX500 2",
+    "ad": "Crucial MX500 2",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 2000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 600,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 21
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-crucial-bx500-250-21",
+    "marka": "Crucial",
+    "model": "BX500 250",
+    "ad": "Crucial BX500 250",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 250,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 75,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 22
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-crucial-bx500-500-22",
+    "marka": "Crucial",
+    "model": "BX500 500",
+    "ad": "Crucial BX500 500",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 500,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 150,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-crucial-bx500-1000-23",
+    "marka": "Crucial",
+    "model": "BX500 1",
+    "ad": "Crucial BX500 1",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 1000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 300,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-crucial-bx500-2000-24",
+    "marka": "Crucial",
+    "model": "BX500 2",
+    "ad": "Crucial BX500 2",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 2000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 600,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-kingston-a400-250-25",
+    "marka": "Kingston",
+    "model": "A400 250",
+    "ad": "Kingston A400 250",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 250,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 75,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 1
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-kingston-a400-500-26",
+    "marka": "Kingston",
+    "model": "A400 500",
+    "ad": "Kingston A400 500",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 500,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 150,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-kingston-a400-1000-27",
+    "marka": "Kingston",
+    "model": "A400 1",
+    "ad": "Kingston A400 1",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 1000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 300,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-kingston-a400-2000-28",
+    "marka": "Kingston",
+    "model": "A400 2",
+    "ad": "Kingston A400 2",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 2000,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 600,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-kingston-kc3000-250-29",
+    "marka": "Kingston",
+    "model": "KC3000 250",
+    "ad": "Kingston KC3000 250",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 250,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 75,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1050,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  },
+  {
+    "id": "dep-kingston-kc3000-500-30",
+    "marka": "Kingston",
+    "model": "KC3000 500",
+    "ad": "Kingston KC3000 500",
+    "form_factor": "2.5in",
+    "arayuz": {
+      "tip": "SATA",
+      "protokol": "AHCI",
+      "port": "SATA-III"
+    },
+    "kapasite_gb": 500,
+    "performans": {
+      "okuma_mb_s": 560,
+      "yazma_mb_s": 520,
+      "iops_rand_okuma": 90000,
+      "iops_rand_yazma": 85000
+    },
+    "dayaniklilik_tbw": 150,
+    "rpm": null,
+    "onbellek_mb": 256,
+    "m2_boy": null,
+    "uyumluluk": {
+      "anakart_kontrol": "Anakart M.2 yuva sayısı ve PCIe/SATA desteği; SATA port sayısı ve M.2 ile paylaşımlı hatlar kontrol edilmeli.",
+      "m2_not": "M.2 SATA ile M.2 NVMe farklıdır. NVMe için M-key, SATA için B+M-key gerekir.",
+      "pcie_not": "Gen5/Gen4 NVMe sürücüler Gen3 yuvalarda çalışır, ancak hız düşer."
+    },
+    "fiyat_try": 1400,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "2.5in",
+      "sata",
+      null
+    ]
+  }
+]

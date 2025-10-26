@@ -1,0 +1,1811 @@
+[
+  {
+    "id": "mb-msi-b650-1",
+    "marka": "MSI",
+    "model": "B650-MPG",
+    "ad": "MSI B650 MPG",
+    "form_factor": "ATX",
+    "yonga_seti": "B650",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000,
+        6400
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 8,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "7.1"
+    },
+    "fiyat_try": 6000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "b650",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-gigabyte-b650-2",
+    "marka": "Gigabyte",
+    "model": "B650-UD-MATX",
+    "ad": "Gigabyte B650 UD mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "B650",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 9,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "ALC1220 7.1"
+    },
+    "fiyat_try": 6500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "b650",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asrock-b650-3",
+    "marka": "ASRock",
+    "model": "B650-STEEL-LEGEND-ITX",
+    "ad": "ASRock B650 Steel Legend ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "B650",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 96,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 10,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "3x jack"
+    },
+    "fiyat_try": 7000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "b650",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asus-x670-4",
+    "marka": "ASUS",
+    "model": "X670-ROG",
+    "ad": "ASUS X670 ROG",
+    "form_factor": "ATX",
+    "yonga_seti": "X670",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000,
+        6400
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 6,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "5.1"
+    },
+    "fiyat_try": 7500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "x670",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-msi-x670-5",
+    "marka": "MSI",
+    "model": "X670-PRO-MATX",
+    "ad": "MSI X670 PRO mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "X670",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 8,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "7.1"
+    },
+    "fiyat_try": 8000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "x670",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-gigabyte-x670-6",
+    "marka": "Gigabyte",
+    "model": "X670-AORUS-ITX",
+    "ad": "Gigabyte X670 AORUS ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "X670",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 96,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 9,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "ALC1220 7.1"
+    },
+    "fiyat_try": 8500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 7
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "x670",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asrock-a620-7",
+    "marka": "ASRock",
+    "model": "A620-PHANTOM-GAMING",
+    "ad": "ASRock A620 Phantom Gaming",
+    "form_factor": "ATX",
+    "yonga_seti": "A620",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000,
+        6400
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 10,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "3x jack"
+    },
+    "fiyat_try": 9000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 8
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "a620",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asus-a620-8",
+    "marka": "ASUS",
+    "model": "A620-PRIME-MATX",
+    "ad": "ASUS A620 PRIME mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "A620",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 6,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "5.1"
+    },
+    "fiyat_try": 9500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "a620",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-msi-a620-9",
+    "marka": "MSI",
+    "model": "A620-MAG-ITX",
+    "ad": "MSI A620 MAG ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "A620",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 96,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 8,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "7.1"
+    },
+    "fiyat_try": 10000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "a620",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-gigabyte-b650e-10",
+    "marka": "Gigabyte",
+    "model": "B650E-GAMING",
+    "ad": "Gigabyte B650E Gaming",
+    "form_factor": "ATX",
+    "yonga_seti": "B650E",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000,
+        6400
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 9,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "ALC1220 7.1"
+    },
+    "fiyat_try": 5500,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "b650e",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asrock-b650e-11",
+    "marka": "ASRock",
+    "model": "B650E-PRO4-MATX",
+    "ad": "ASRock B650E Pro4 mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "B650E",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 10,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "3x jack"
+    },
+    "fiyat_try": 6000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "b650e",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asus-b650e-12",
+    "marka": "ASUS",
+    "model": "B650E-TUF-ITX",
+    "ad": "ASUS B650E TUF ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "B650E",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 96,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 6,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "5.1"
+    },
+    "fiyat_try": 6500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 13
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "b650e",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-msi-x670e-13",
+    "marka": "MSI",
+    "model": "X670E-MPG",
+    "ad": "MSI X670E MPG",
+    "form_factor": "ATX",
+    "yonga_seti": "X670E",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000,
+        6400
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 8,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "7.1"
+    },
+    "fiyat_try": 7000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "x670e",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-gigabyte-x670e-14",
+    "marka": "Gigabyte",
+    "model": "X670E-UD-MATX",
+    "ad": "Gigabyte X670E UD mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "X670E",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 9,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "ALC1220 7.1"
+    },
+    "fiyat_try": 7500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 15
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "x670e",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asrock-x670e-15",
+    "marka": "ASRock",
+    "model": "X670E-STEEL-LEGEND-ITX",
+    "ad": "ASRock X670E Steel Legend ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "X670E",
+    "soket": "AM5",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM5",
+      "nesiller": [
+        "ryzen_7000",
+        "ryzen_9000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 96,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 10,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "3x jack"
+    },
+    "fiyat_try": 8000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr5",
+      "am5",
+      "x670e",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asus-b450-16",
+    "marka": "ASUS",
+    "model": "B450-ROG",
+    "ad": "ASUS B450 ROG",
+    "form_factor": "ATX",
+    "yonga_seti": "B450",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "1GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 6,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "5.1"
+    },
+    "fiyat_try": 5500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "b450"
+    ]
+  },
+  {
+    "id": "mb-msi-b450-17",
+    "marka": "MSI",
+    "model": "B450-PRO-MATX",
+    "ad": "MSI B450 PRO mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "B450",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "1GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 8,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "7.1"
+    },
+    "fiyat_try": 6000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "b450"
+    ]
+  },
+  {
+    "id": "mb-gigabyte-b450-18",
+    "marka": "Gigabyte",
+    "model": "B450-AORUS-ITX",
+    "ad": "Gigabyte B450 AORUS ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "B450",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "1GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 9,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "ALC1220 7.1"
+    },
+    "fiyat_try": 6500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 19
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "b450"
+    ]
+  },
+  {
+    "id": "mb-asrock-b550-19",
+    "marka": "ASRock",
+    "model": "B550-PHANTOM-GAMING",
+    "ad": "ASRock B550 Phantom Gaming",
+    "form_factor": "ATX",
+    "yonga_seti": "B550",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 10,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "3x jack"
+    },
+    "fiyat_try": 7000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "b550"
+    ]
+  },
+  {
+    "id": "mb-asus-b550-20",
+    "marka": "ASUS",
+    "model": "B550-PRIME-MATX",
+    "ad": "ASUS B550 PRIME mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "B550",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 6,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "5.1"
+    },
+    "fiyat_try": 2500,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "b550"
+    ]
+  },
+  {
+    "id": "mb-msi-b550-21",
+    "marka": "MSI",
+    "model": "B550-MAG-ITX",
+    "ad": "MSI B550 MAG ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "B550",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 8,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "7.1"
+    },
+    "fiyat_try": 3000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 22
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "b550"
+    ]
+  },
+  {
+    "id": "mb-gigabyte-x570-22",
+    "marka": "Gigabyte",
+    "model": "X570-GAMING",
+    "ad": "Gigabyte X570 Gaming",
+    "form_factor": "ATX",
+    "yonga_seti": "X570",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 9,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "ALC1220 7.1"
+    },
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "x570"
+    ]
+  },
+  {
+    "id": "mb-asrock-x570-23",
+    "marka": "ASRock",
+    "model": "X570-PRO4-MATX",
+    "ad": "ASRock X570 Pro4 mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "X570",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 10,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "3x jack"
+    },
+    "fiyat_try": 4000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "x570"
+    ]
+  },
+  {
+    "id": "mb-asus-x570-24",
+    "marka": "ASUS",
+    "model": "X570-TUF-ITX",
+    "ad": "ASUS X570 TUF ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "X570",
+    "soket": "AM4",
+    "cpu_uyumluluk": {
+      "vendor": "AMD",
+      "socket": "AM4",
+      "nesiller": [
+        "ryzen_3000",
+        "ryzen_5000"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen4/Gen3"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 6,
+      "video": [
+        "HDMI 2.1"
+      ],
+      "audio": "5.1"
+    },
+    "fiyat_try": 4500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 1
+    },
+    "etiketler": [
+      "ddr4",
+      "am4",
+      "x570"
+    ]
+  },
+  {
+    "id": "mb-msi-h610-25",
+    "marka": "MSI",
+    "model": "H610-MPG",
+    "ad": "MSI H610 MPG",
+    "form_factor": "ATX",
+    "yonga_seti": "H610",
+    "soket": "LGA1700",
+    "cpu_uyumluluk": {
+      "vendor": "Intel",
+      "socket": "LGA1700",
+      "nesiller": [
+        "intel_12th",
+        "intel_13th",
+        "intel_14th"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "1GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 8,
+      "video": [
+        "HDMI 2.1",
+        "DP 1.4"
+      ],
+      "audio": "7.1"
+    },
+    "fiyat_try": 8000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr4",
+      "lga1700",
+      "h610",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-gigabyte-h610-26",
+    "marka": "Gigabyte",
+    "model": "H610-UD-MATX",
+    "ad": "Gigabyte H610 UD mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "H610",
+    "soket": "LGA1700",
+    "cpu_uyumluluk": {
+      "vendor": "Intel",
+      "socket": "LGA1700",
+      "nesiller": [
+        "intel_12th",
+        "intel_13th",
+        "intel_14th"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "1GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 9,
+      "video": [
+        "HDMI 2.1",
+        "DP 1.4"
+      ],
+      "audio": "ALC1220 7.1"
+    },
+    "fiyat_try": 8500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "ddr4",
+      "lga1700",
+      "h610",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asrock-h610-27",
+    "marka": "ASRock",
+    "model": "H610-STEEL-LEGEND-ITX",
+    "ad": "ASRock H610 Steel Legend ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "H610",
+    "soket": "LGA1700",
+    "cpu_uyumluluk": {
+      "vendor": "Intel",
+      "socket": "LGA1700",
+      "nesiller": [
+        "intel_12th",
+        "intel_13th",
+        "intel_14th"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR4",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        2933,
+        3200,
+        3600,
+        4000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "1GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 10,
+      "video": [
+        "HDMI 2.1",
+        "DP 1.4"
+      ],
+      "audio": "3x jack"
+    },
+    "fiyat_try": 9000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "ddr4",
+      "lga1700",
+      "h610",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-asus-b660-28",
+    "marka": "ASUS",
+    "model": "B660-ROG",
+    "ad": "ASUS B660 ROG",
+    "form_factor": "ATX",
+    "yonga_seti": "B660",
+    "soket": "LGA1700",
+    "cpu_uyumluluk": {
+      "vendor": "Intel",
+      "socket": "LGA1700",
+      "nesiller": [
+        "intel_12th",
+        "intel_13th",
+        "intel_14th"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000,
+        6400
+      ]
+    },
+    "depolama": {
+      "sata": 6,
+      "m2": 3,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 2,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6 + BT 5.2"
+    },
+    "arka_panel": {
+      "usb": 6,
+      "video": [
+        "HDMI 2.1",
+        "DP 1.4"
+      ],
+      "audio": "5.1"
+    },
+    "fiyat_try": 9500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "ddr5",
+      "lga1700",
+      "b660",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-msi-b660-29",
+    "marka": "MSI",
+    "model": "B660-PRO-MATX",
+    "ad": "MSI B660 PRO mATX",
+    "form_factor": "Micro-ATX",
+    "yonga_seti": "B660",
+    "soket": "LGA1700",
+    "cpu_uyumluluk": {
+      "vendor": "Intel",
+      "socket": "LGA1700",
+      "nesiller": [
+        "intel_12th",
+        "intel_13th",
+        "intel_14th"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 4,
+      "max_kapasite_gb": 128,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 2,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": "Wi-Fi 6E + BT 5.3"
+    },
+    "arka_panel": {
+      "usb": 8,
+      "video": [
+        "HDMI 2.1",
+        "DP 1.4"
+      ],
+      "audio": "7.1"
+    },
+    "fiyat_try": 10000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "ddr5",
+      "lga1700",
+      "b660",
+      "pcie5"
+    ]
+  },
+  {
+    "id": "mb-gigabyte-b660-30",
+    "marka": "Gigabyte",
+    "model": "B660-AORUS-ITX",
+    "ad": "Gigabyte B660 AORUS ITX",
+    "form_factor": "Mini-ITX",
+    "yonga_seti": "B660",
+    "soket": "LGA1700",
+    "cpu_uyumluluk": {
+      "vendor": "Intel",
+      "socket": "LGA1700",
+      "nesiller": [
+        "intel_12th",
+        "intel_13th",
+        "intel_14th"
+      ]
+    },
+    "bellek": {
+      "tip": "DDR5",
+      "yuva_sayisi": 2,
+      "max_kapasite_gb": 96,
+      "hiz_mhz": [
+        4800,
+        5200,
+        5600,
+        6000
+      ]
+    },
+    "depolama": {
+      "sata": 4,
+      "m2": 1,
+      "m2_pci_gen": "Gen4"
+    },
+    "genisleme": {
+      "pcie_x16": 1,
+      "pcie_x1": 1,
+      "pcie_gen": "Gen5/Gen4"
+    },
+    "ag": {
+      "ethernet": "2.5GbE",
+      "wifi_bluetooth": null
+    },
+    "arka_panel": {
+      "usb": 9,
+      "video": [
+        "HDMI 2.1",
+        "DP 1.4"
+      ],
+      "audio": "ALC1220 7.1"
+    },
+    "fiyat_try": 5500,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr5",
+      "lga1700",
+      "b660",
+      "pcie5"
+    ]
+  }
+]

@@ -1,0 +1,1766 @@
+[
+  {
+    "id": "mouse-logitech-gproxsuperlight2-1",
+    "marka": "Logitech",
+    "model": "G Pro X Superlight 2",
+    "ad": "Logitech G Pro X Superlight 2",
+    "sensor": "Focus Pro 30K",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 55,
+    "polling_hz": 500,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 6,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "wireless",
+      "focuspro30k",
+      "55g"
+    ]
+  },
+  {
+    "id": "mouse-logitech-g502xplus-2",
+    "marka": "Logitech",
+    "model": "G502 X Plus",
+    "ad": "Logitech G502 X Plus",
+    "sensor": "TrueMove Air",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 63,
+    "polling_hz": 1000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 7,
+    "kaydirma": {
+      "tilt": true,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "wireless",
+      "truemoveair",
+      "63g"
+    ]
+  },
+  {
+    "id": "mouse-logitech-mxmaster3s-3",
+    "marka": "Logitech",
+    "model": "MX Master 3S",
+    "ad": "Logitech MX Master 3S",
+    "sensor": "PAW3395",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 72,
+    "polling_hz": 2000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 8,
+    "kaydirma": {
+      "tilt": true,
+      "hizli_scroll": true
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "wired",
+      "paw3395",
+      "72g"
+    ]
+  },
+  {
+    "id": "mouse-logitech-mxmaster3swired-4",
+    "marka": "Logitech",
+    "model": "MX Master 3S Wired",
+    "ad": "Logitech MX Master 3S Wired",
+    "sensor": "PMW3360",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 82,
+    "polling_hz": 4000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 9,
+    "kaydirma": {
+      "tilt": true,
+      "hizli_scroll": true
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "wireless",
+      "pmw3360",
+      "82g"
+    ]
+  },
+  {
+    "id": "mouse-razer-deathadderv3pro-5",
+    "marka": "Razer",
+    "model": "DeathAdder V3 Pro",
+    "ad": "Razer DeathAdder V3 Pro",
+    "sensor": "PixArt 3950",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 92,
+    "polling_hz": 8000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 10,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "wireless",
+      "pixart3950",
+      "92g"
+    ]
+  },
+  {
+    "id": "mouse-razer-deathadderv3prowired-6",
+    "marka": "Razer",
+    "model": "DeathAdder V3 Pro Wired",
+    "ad": "Razer DeathAdder V3 Pro Wired",
+    "sensor": "HERO 32K",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 49,
+    "polling_hz": 125,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 5,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 7
+    },
+    "etiketler": [
+      "wireless",
+      "hero32k",
+      "49g"
+    ]
+  },
+  {
+    "id": "mouse-razer-basiliskv3pro-7",
+    "marka": "Razer",
+    "model": "Basilisk V3 Pro",
+    "ad": "Razer Basilisk V3 Pro",
+    "sensor": "Focus Pro 30K",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 55,
+    "polling_hz": 500,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 6,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "wireless",
+      "focuspro30k",
+      "55g"
+    ]
+  },
+  {
+    "id": "mouse-razer-basiliskv3prowired-8",
+    "marka": "Razer",
+    "model": "Basilisk V3 Pro Wired",
+    "ad": "Razer Basilisk V3 Pro Wired",
+    "sensor": "TrueMove Air",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 63,
+    "polling_hz": 1000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 7,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "wireless",
+      "truemoveair",
+      "63g"
+    ]
+  },
+  {
+    "id": "mouse-razer-viper8khz-9",
+    "marka": "Razer",
+    "model": "Viper 8KHz",
+    "ad": "Razer Viper 8KHz",
+    "sensor": "PAW3395",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 72,
+    "polling_hz": 2000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 8,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "wired",
+      "paw3395",
+      "72g"
+    ]
+  },
+  {
+    "id": "mouse-razer-viper8khzwired-10",
+    "marka": "Razer",
+    "model": "Viper 8KHz Wired",
+    "ad": "Razer Viper 8KHz Wired",
+    "sensor": "PMW3360",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 82,
+    "polling_hz": 4000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 9,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "etiketler": [
+      "wired",
+      "pmw3360",
+      "82g"
+    ]
+  },
+  {
+    "id": "mouse-steelseries-aerox3wireless-11",
+    "marka": "SteelSeries",
+    "model": "Aerox 3 Wireless",
+    "ad": "SteelSeries Aerox 3 Wireless",
+    "sensor": "PixArt 3950",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 92,
+    "polling_hz": 8000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 10,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "wireless",
+      "pixart3950",
+      "92g"
+    ]
+  },
+  {
+    "id": "mouse-steelseries-rival600-12",
+    "marka": "SteelSeries",
+    "model": "Rival 600",
+    "ad": "SteelSeries Rival 600",
+    "sensor": "HERO 32K",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 49,
+    "polling_hz": 125,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 5,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 13
+    },
+    "etiketler": [
+      "wireless",
+      "hero32k",
+      "49g"
+    ]
+  },
+  {
+    "id": "mouse-steelseries-rival600wired-13",
+    "marka": "SteelSeries",
+    "model": "Rival 600 Wired",
+    "ad": "SteelSeries Rival 600 Wired",
+    "sensor": "Focus Pro 30K",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 55,
+    "polling_hz": 500,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 6,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1900,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "wired",
+      "focuspro30k",
+      "55g"
+    ]
+  },
+  {
+    "id": "mouse-steelseries-primewireless-14",
+    "marka": "SteelSeries",
+    "model": "Prime Wireless",
+    "ad": "SteelSeries Prime Wireless",
+    "sensor": "TrueMove Air",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 63,
+    "polling_hz": 1000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 7,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2300,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "wireless",
+      "truemoveair",
+      "63g"
+    ]
+  },
+  {
+    "id": "mouse-glorious-modelowireless-15",
+    "marka": "Glorious",
+    "model": "Model O Wireless",
+    "ad": "Glorious Model O Wireless",
+    "sensor": "PAW3395",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 72,
+    "polling_hz": 2000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 8,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "etiketler": [
+      "wireless",
+      "paw3395",
+      "72g"
+    ]
+  },
+  {
+    "id": "mouse-glorious-modeld-16",
+    "marka": "Glorious",
+    "model": "Model D",
+    "ad": "Glorious Model D",
+    "sensor": "PMW3360",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 82,
+    "polling_hz": 4000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 9,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "wireless",
+      "pmw3360",
+      "82g"
+    ]
+  },
+  {
+    "id": "mouse-glorious-modeldwired-17",
+    "marka": "Glorious",
+    "model": "Model D Wired",
+    "ad": "Glorious Model D Wired",
+    "sensor": "PixArt 3950",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 92,
+    "polling_hz": 8000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 10,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "wired",
+      "pixart3950",
+      "92g"
+    ]
+  },
+  {
+    "id": "mouse-glorious-modelo2pro-18",
+    "marka": "Glorious",
+    "model": "Model O 2 Pro",
+    "ad": "Glorious Model O 2 Pro",
+    "sensor": "HERO 32K",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 49,
+    "polling_hz": 125,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 5,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 19
+    },
+    "etiketler": [
+      "wireless",
+      "hero32k",
+      "49g"
+    ]
+  },
+  {
+    "id": "mouse-glorious-modelo2prowired-19",
+    "marka": "Glorious",
+    "model": "Model O 2 Pro Wired",
+    "ad": "Glorious Model O 2 Pro Wired",
+    "sensor": "Focus Pro 30K",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 55,
+    "polling_hz": 500,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 6,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "wireless",
+      "focuspro30k",
+      "55g"
+    ]
+  },
+  {
+    "id": "mouse-zowie-ec2-cw-20",
+    "marka": "Zowie",
+    "model": "EC2-CW",
+    "ad": "Zowie EC2-CW",
+    "sensor": "TrueMove Air",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 63,
+    "polling_hz": 1000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 7,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 21
+    },
+    "etiketler": [
+      "wireless",
+      "truemoveair",
+      "63g"
+    ]
+  },
+  {
+    "id": "mouse-zowie-ec2-cwwired-21",
+    "marka": "Zowie",
+    "model": "EC2-CW Wired",
+    "ad": "Zowie EC2-CW Wired",
+    "sensor": "PAW3395",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 72,
+    "polling_hz": 2000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 8,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1200,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "wired",
+      "paw3395",
+      "72g"
+    ]
+  },
+  {
+    "id": "mouse-zowie-fk2-c-22",
+    "marka": "Zowie",
+    "model": "FK2-C",
+    "ad": "Zowie FK2-C",
+    "sensor": "PMW3360",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 82,
+    "polling_hz": 4000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 9,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "etiketler": [
+      "wired",
+      "pmw3360",
+      "82g"
+    ]
+  },
+  {
+    "id": "mouse-zowie-fk2-cwired-23",
+    "marka": "Zowie",
+    "model": "FK2-C Wired",
+    "ad": "Zowie FK2-C Wired",
+    "sensor": "PixArt 3950",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 92,
+    "polling_hz": 8000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 10,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "etiketler": [
+      "wired",
+      "pixart3950",
+      "92g"
+    ]
+  },
+  {
+    "id": "mouse-zowie-s2-c-24",
+    "marka": "Zowie",
+    "model": "S2-C",
+    "ad": "Zowie S2-C",
+    "sensor": "HERO 32K",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 49,
+    "polling_hz": 125,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 5,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 25
+    },
+    "etiketler": [
+      "wireless",
+      "hero32k",
+      "49g"
+    ]
+  },
+  {
+    "id": "mouse-zowie-s2-cwired-25",
+    "marka": "Zowie",
+    "model": "S2-C Wired",
+    "ad": "Zowie S2-C Wired",
+    "sensor": "Focus Pro 30K",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 55,
+    "polling_hz": 500,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 6,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 1
+    },
+    "etiketler": [
+      "wired",
+      "focuspro30k",
+      "55g"
+    ]
+  },
+  {
+    "id": "mouse-corsair-m65rgbultra-26",
+    "marka": "Corsair",
+    "model": "M65 RGB Ultra",
+    "ad": "Corsair M65 RGB Ultra",
+    "sensor": "TrueMove Air",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 63,
+    "polling_hz": 1000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 7,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "wired",
+      "truemoveair",
+      "63g"
+    ]
+  },
+  {
+    "id": "mouse-corsair-m65rgbultrawired-27",
+    "marka": "Corsair",
+    "model": "M65 RGB Ultra Wired",
+    "ad": "Corsair M65 RGB Ultra Wired",
+    "sensor": "PAW3395",
+    "dpi": {
+      "min": 100,
+      "max": 26000
+    },
+    "agirlik_g": 72,
+    "polling_hz": 2000,
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "USB-A to USB-C"
+    },
+    "kablosuz": false,
+    "pil": null,
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "palm"
+    },
+    "tus_sayisi": 8,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 1200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "wired",
+      "paw3395",
+      "72g"
+    ]
+  },
+  {
+    "id": "mouse-corsair-sabrergbprowireless-28",
+    "marka": "Corsair",
+    "model": "SABRE RGB Pro Wireless",
+    "ad": "Corsair SABRE RGB Pro Wireless",
+    "sensor": "PMW3360",
+    "dpi": {
+      "min": 100,
+      "max": 32000
+    },
+    "agirlik_g": 82,
+    "polling_hz": 4000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 9,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "wireless",
+      "pmw3360",
+      "82g"
+    ]
+  },
+  {
+    "id": "mouse-corsair-harpoonrgbwireless-29",
+    "marka": "Corsair",
+    "model": "HARPOON RGB Wireless",
+    "ad": "Corsair HARPOON RGB Wireless",
+    "sensor": "PixArt 3950",
+    "dpi": {
+      "min": 100,
+      "max": 30000
+    },
+    "agirlik_g": 92,
+    "polling_hz": 8000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "ambidextrous",
+      "tutuc": "fingertip"
+    },
+    "tus_sayisi": 10,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "En iyi 2.4GHz performansı için alıcıyı USB uzatma ile yakına konumlandırın."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "wireless",
+      "pixart3950",
+      "92g"
+    ]
+  },
+  {
+    "id": "mouse-endgamexm2s-30",
+    "marka": "Endgame Gear",
+    "model": "XM2we",
+    "ad": "Endgame Gear XM2we",
+    "sensor": "PAW3370",
+    "dpi": {
+      "min": 100,
+      "max": 19000
+    },
+    "agirlik_g": 63,
+    "polling_hz": 1000,
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": false,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 500,
+      "sarj": "USB-C"
+    },
+    "sekil": {
+      "tarz": "right",
+      "tutuc": "claw"
+    },
+    "tus_sayisi": 6,
+    "kaydirma": {
+      "tilt": false,
+      "hizli_scroll": false
+    },
+    "yuzey": {
+      "kaplama": "mat",
+      "feet": "PTFE"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "USB alıcıyı yakın konumlandırın."
+    },
+    "fiyat_try": 2200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "wireless",
+      "paw3370",
+      "63g"
+    ]
+  }
+]

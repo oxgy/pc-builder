@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "ram-corsair-ddr4-2666-1",
+    "marka": "Corsair",
+    "seri": "Vengeance RGB",
+    "model": "Vengeance RGB 2x8 DDR4-2666",
+    "ad": "Corsair Vengeance RGB 2x8 DDR4-2666",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 16,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 8,
+    "hiz_mhz": 2666,
+    "hiz_profilleri_mhz": [
+      2666
+    ],
+    "cas": 16,
+    "volt": 1.2,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 3000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "ddr4",
+      "2666mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr4-2666-2",
+    "marka": "Corsair",
+    "seri": "DOMINATOR Platinum",
+    "model": "DOMINATOR Platinum 2x16 DDR4-2666",
+    "ad": "Corsair DOMINATOR Platinum 2x16 DDR4-2666",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 2666,
+    "hiz_profilleri_mhz": [
+      2666
+    ],
+    "cas": 16,
+    "volt": 1.2,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": true,
+    "fiyat_try": 3800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "ddr4",
+      "2666mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr4-3200-3",
+    "marka": "Corsair",
+    "seri": "Vengeance LPX",
+    "model": "Vengeance LPX 2x8 DDR4-3200",
+    "ad": "Corsair Vengeance LPX 2x8 DDR4-3200",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 16,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 8,
+    "hiz_mhz": 3200,
+    "hiz_profilleri_mhz": [
+      3200
+    ],
+    "cas": 16,
+    "volt": 1.2,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 3300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "ddr4",
+      "3200mhz"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr4-3200-4",
+    "marka": "Corsair",
+    "seri": "Vengeance RGB",
+    "model": "Vengeance RGB 2x16 DDR4-3200",
+    "ad": "Corsair Vengeance RGB 2x16 DDR4-3200",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 3200,
+    "hiz_profilleri_mhz": [
+      3200
+    ],
+    "cas": 16,
+    "volt": 1.2,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 4100,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "ddr4",
+      "3200mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr4-3600-5",
+    "marka": "Corsair",
+    "seri": "DOMINATOR Platinum",
+    "model": "DOMINATOR Platinum 2x8 DDR4-3600",
+    "ad": "Corsair DOMINATOR Platinum 2x8 DDR4-3600",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 16,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 8,
+    "hiz_mhz": 3600,
+    "hiz_profilleri_mhz": [
+      3600
+    ],
+    "cas": 18,
+    "volt": 1.35,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": true,
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "ddr4",
+      "3600mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr4-3600-6",
+    "marka": "Corsair",
+    "seri": "Vengeance LPX",
+    "model": "Vengeance LPX 2x16 DDR4-3600",
+    "ad": "Corsair Vengeance LPX 2x16 DDR4-3600",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 3600,
+    "hiz_profilleri_mhz": [
+      3600
+    ],
+    "cas": 18,
+    "volt": 1.35,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 4300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 7
+    },
+    "etiketler": [
+      "ddr4",
+      "3600mhz"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr4-4000-7",
+    "marka": "Corsair",
+    "seri": "Vengeance RGB",
+    "model": "Vengeance RGB 2x8 DDR4-4000",
+    "ad": "Corsair Vengeance RGB 2x8 DDR4-4000",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 16,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 8,
+    "hiz_mhz": 4000,
+    "hiz_profilleri_mhz": [
+      4000
+    ],
+    "cas": 19,
+    "volt": 1.35,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 3700,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr4",
+      "4000mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr4-4000-8",
+    "marka": "Corsair",
+    "seri": "DOMINATOR Platinum",
+    "model": "DOMINATOR Platinum 2x16 DDR4-4000",
+    "ad": "Corsair DOMINATOR Platinum 2x16 DDR4-4000",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 4000,
+    "hiz_profilleri_mhz": [
+      4000
+    ],
+    "cas": 19,
+    "volt": 1.35,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": true,
+    "fiyat_try": 4500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "ddr4",
+      "4000mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-g.skill-ddr4-2666-9",
+    "marka": "G.Skill",
+    "seri": "Ripjaws V",
+    "model": "Ripjaws V 2x8 DDR4-2666",
+    "ad": "G.Skill Ripjaws V 2x8 DDR4-2666",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 16,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 8,
+    "hiz_mhz": 2666,
+    "hiz_profilleri_mhz": [
+      2666
+    ],
+    "cas": 16,
+    "volt": 1.2,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 3000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "ddr4",
+      "2666mhz"
+    ]
+  },
+  {
+    "id": "ram-g.skill-ddr4-2666-10",
+    "marka": "G.Skill",
+    "seri": "Trident Z5",
+    "model": "Trident Z5 2x16 DDR4-2666",
+    "ad": "G.Skill Trident Z5 2x16 DDR4-2666",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 2666,
+    "hiz_profilleri_mhz": [
+      2666
+    ],
+    "cas": 16,
+    "volt": 1.2,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 3800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "etiketler": [
+      "ddr4",
+      "2666mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-g.skill-ddr4-3200-11",
+    "marka": "G.Skill",
+    "seri": "Flare X5",
+    "model": "Flare X5 2x8 DDR4-3200",
+    "ad": "G.Skill Flare X5 2x8 DDR4-3200",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 16,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 8,
+    "hiz_mhz": 3200,
+    "hiz_profilleri_mhz": [
+      3200
+    ],
+    "cas": 16,
+    "volt": 1.2,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 3300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "ddr4",
+      "3200mhz"
+    ]
+  },
+  {
+    "id": "ram-g.skill-ddr4-3200-12",
+    "marka": "G.Skill",
+    "seri": "Ripjaws V",
+    "model": "Ripjaws V 2x16 DDR4-3200",
+    "ad": "G.Skill Ripjaws V 2x16 DDR4-3200",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 3200,
+    "hiz_profilleri_mhz": [
+      3200
+    ],
+    "cas": 16,
+    "volt": 1.2,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 4100,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 13
+    },
+    "etiketler": [
+      "ddr4",
+      "3200mhz"
+    ]
+  },
+  {
+    "id": "ram-g.skill-ddr4-3600-13",
+    "marka": "G.Skill",
+    "seri": "Trident Z5",
+    "model": "Trident Z5 2x8 DDR4-3600",
+    "ad": "G.Skill Trident Z5 2x8 DDR4-3600",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 16,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 8,
+    "hiz_mhz": 3600,
+    "hiz_profilleri_mhz": [
+      3600
+    ],
+    "cas": 18,
+    "volt": 1.35,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "ddr4",
+      "3600mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-g.skill-ddr4-3600-14",
+    "marka": "G.Skill",
+    "seri": "Flare X5",
+    "model": "Flare X5 2x16 DDR4-3600",
+    "ad": "G.Skill Flare X5 2x16 DDR4-3600",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 3600,
+    "hiz_profilleri_mhz": [
+      3600
+    ],
+    "cas": 18,
+    "volt": 1.35,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 4300,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr4",
+      "3600mhz"
+    ]
+  },
+  {
+    "id": "ram-g.skill-ddr4-4000-15",
+    "marka": "G.Skill",
+    "seri": "Ripjaws V",
+    "model": "Ripjaws V 2x8 DDR4-4000",
+    "ad": "G.Skill Ripjaws V 2x8 DDR4-4000",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 16,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 8,
+    "hiz_mhz": 4000,
+    "hiz_profilleri_mhz": [
+      4000
+    ],
+    "cas": 19,
+    "volt": 1.35,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 3700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "etiketler": [
+      "ddr4",
+      "4000mhz"
+    ]
+  },
+  {
+    "id": "ram-g.skill-ddr4-4000-16",
+    "marka": "G.Skill",
+    "seri": "Trident Z5",
+    "model": "Trident Z5 2x16 DDR4-4000",
+    "ad": "G.Skill Trident Z5 2x16 DDR4-4000",
+    "tip": "DDR4",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 4000,
+    "hiz_profilleri_mhz": [
+      4000
+    ],
+    "cas": 19,
+    "volt": 1.35,
+    "profil": [
+      "XMP"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR4",
+      "uyumlu_soketler": [
+        "AM4",
+        "LGA1200",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 4500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "ddr4",
+      "4000mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-4800-17",
+    "marka": "Corsair",
+    "seri": "DOMINATOR Platinum",
+    "model": "DOMINATOR Platinum 2x16 DDR5-4800",
+    "ad": "Corsair DOMINATOR Platinum 2x16 DDR5-4800",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 4800,
+    "hiz_profilleri_mhz": [
+      4800
+    ],
+    "cas": 40,
+    "volt": 1.1,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": true,
+    "fiyat_try": 5500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "ddr5",
+      "4800mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-4800-18",
+    "marka": "Corsair",
+    "seri": "Vengeance LPX",
+    "model": "Vengeance LPX 2x32 DDR5-4800",
+    "ad": "Corsair Vengeance LPX 2x32 DDR5-4800",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 64,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 32,
+    "hiz_mhz": 4800,
+    "hiz_profilleri_mhz": [
+      4800
+    ],
+    "cas": 40,
+    "volt": 1.1,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "dual",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 7100,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 19
+    },
+    "etiketler": [
+      "ddr5",
+      "4800mhz"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-5200-19",
+    "marka": "Corsair",
+    "seri": "Vengeance RGB",
+    "model": "Vengeance RGB 2x16 DDR5-5200",
+    "ad": "Corsair Vengeance RGB 2x16 DDR5-5200",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 5200,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200
+    ],
+    "cas": 42,
+    "volt": 1.1,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 5700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "ddr5",
+      "5200mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-5200-20",
+    "marka": "Corsair",
+    "seri": "DOMINATOR Platinum",
+    "model": "DOMINATOR Platinum 2x32 DDR5-5200",
+    "ad": "Corsair DOMINATOR Platinum 2x32 DDR5-5200",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 64,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 32,
+    "hiz_mhz": 5200,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200
+    ],
+    "cas": 42,
+    "volt": 1.1,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "dual",
+    "soğutucu": false,
+    "rgb": true,
+    "fiyat_try": 7300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 21
+    },
+    "etiketler": [
+      "ddr5",
+      "5200mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-5600-21",
+    "marka": "Corsair",
+    "seri": "Vengeance LPX",
+    "model": "Vengeance LPX 2x16 DDR5-5600",
+    "ad": "Corsair Vengeance LPX 2x16 DDR5-5600",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 5600,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600
+    ],
+    "cas": 46,
+    "volt": 1.25,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 5900,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr5",
+      "5600mhz"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-5600-22",
+    "marka": "Corsair",
+    "seri": "Vengeance RGB",
+    "model": "Vengeance RGB 2x32 DDR5-5600",
+    "ad": "Corsair Vengeance RGB 2x32 DDR5-5600",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 64,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 32,
+    "hiz_mhz": 5600,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600
+    ],
+    "cas": 46,
+    "volt": 1.25,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": true,
+    "rank": "dual",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 7500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "etiketler": [
+      "ddr5",
+      "5600mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-6000-23",
+    "marka": "Corsair",
+    "seri": "DOMINATOR Platinum",
+    "model": "DOMINATOR Platinum 2x16 DDR5-6000",
+    "ad": "Corsair DOMINATOR Platinum 2x16 DDR5-6000",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 6000,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600,
+      6000
+    ],
+    "cas": 36,
+    "volt": 1.25,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": true,
+    "fiyat_try": 6100,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "etiketler": [
+      "ddr5",
+      "6000mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-6000-24",
+    "marka": "Corsair",
+    "seri": "Vengeance LPX",
+    "model": "Vengeance LPX 2x32 DDR5-6000",
+    "ad": "Corsair Vengeance LPX 2x32 DDR5-6000",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 64,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 32,
+    "hiz_mhz": 6000,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600,
+      6000
+    ],
+    "cas": 36,
+    "volt": 1.25,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "dual",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 7700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 25
+    },
+    "etiketler": [
+      "ddr5",
+      "6000mhz"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-6400-25",
+    "marka": "Corsair",
+    "seri": "Vengeance RGB",
+    "model": "Vengeance RGB 2x16 DDR5-6400",
+    "ad": "Corsair Vengeance RGB 2x16 DDR5-6400",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 6400,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600,
+      6000,
+      6400,
+      6600
+    ],
+    "cas": 38,
+    "volt": 1.35,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 6300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 26
+    },
+    "etiketler": [
+      "ddr5",
+      "6400mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-6400-26",
+    "marka": "Corsair",
+    "seri": "DOMINATOR Platinum",
+    "model": "DOMINATOR Platinum 2x32 DDR5-6400",
+    "ad": "Corsair DOMINATOR Platinum 2x32 DDR5-6400",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 64,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 32,
+    "hiz_mhz": 6400,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600,
+      6000,
+      6400,
+      6600
+    ],
+    "cas": 38,
+    "volt": 1.35,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "dual",
+    "soğutucu": false,
+    "rgb": true,
+    "fiyat_try": 7900,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 27
+    },
+    "etiketler": [
+      "ddr5",
+      "6400mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-6600-27",
+    "marka": "Corsair",
+    "seri": "Vengeance LPX",
+    "model": "Vengeance LPX 2x16 DDR5-6600",
+    "ad": "Corsair Vengeance LPX 2x16 DDR5-6600",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 6600,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600,
+      6000,
+      6400,
+      6600,
+      6800
+    ],
+    "cas": 32,
+    "volt": 1.35,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 6400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 28
+    },
+    "etiketler": [
+      "ddr5",
+      "6600mhz"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-6600-28",
+    "marka": "Corsair",
+    "seri": "Vengeance RGB",
+    "model": "Vengeance RGB 2x32 DDR5-6600",
+    "ad": "Corsair Vengeance RGB 2x32 DDR5-6600",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 64,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 32,
+    "hiz_mhz": 6600,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600,
+      6000,
+      6400,
+      6600,
+      6800
+    ],
+    "cas": 32,
+    "volt": 1.35,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "dual",
+    "soğutucu": true,
+    "rgb": true,
+    "fiyat_try": 8000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "ddr5",
+      "6600mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-7200-29",
+    "marka": "Corsair",
+    "seri": "DOMINATOR Platinum",
+    "model": "DOMINATOR Platinum 2x16 DDR5-7200",
+    "ad": "Corsair DOMINATOR Platinum 2x16 DDR5-7200",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 32,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 16,
+    "hiz_mhz": 7200,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600,
+      6000,
+      6400,
+      6600,
+      6800,
+      7200,
+      7600
+    ],
+    "cas": 36,
+    "volt": 1.35,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "single",
+    "soğutucu": false,
+    "rgb": true,
+    "fiyat_try": 6700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 30
+    },
+    "etiketler": [
+      "ddr5",
+      "7200mhz",
+      "rgb"
+    ]
+  },
+  {
+    "id": "ram-corsair-ddr5-7200-30",
+    "marka": "Corsair",
+    "seri": "Vengeance LPX",
+    "model": "Vengeance LPX 2x32 DDR5-7200",
+    "ad": "Corsair Vengeance LPX 2x32 DDR5-7200",
+    "tip": "DDR5",
+    "kapasite_kit_gb": 64,
+    "modul_sayisi": 2,
+    "kapasite_modul_gb": 32,
+    "hiz_mhz": 7200,
+    "hiz_profilleri_mhz": [
+      4800,
+      5200,
+      5600,
+      6000,
+      6400,
+      6600,
+      6800,
+      7200,
+      7600
+    ],
+    "cas": 36,
+    "volt": 1.35,
+    "profil": [
+      "XMP",
+      "EXPO"
+    ],
+    "destek_platform": {
+      "intel": true,
+      "amd": true
+    },
+    "uyumluluk": {
+      "bellek_tip": "DDR5",
+      "uyumlu_soketler": [
+        "AM5",
+        "LGA1700"
+      ],
+      "oneri": "Anakartın bellek tipi aynı olmalı (DDR4/DDR5). Hız, anakartın desteklediği maksimum değerlere eşit veya altında olmalı."
+    },
+    "form_factor": "UDIMM",
+    "ecc": false,
+    "rank": "dual",
+    "soğutucu": false,
+    "rgb": false,
+    "fiyat_try": 8300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 1
+    },
+    "etiketler": [
+      "ddr5",
+      "7200mhz"
+    ]
+  }
+]

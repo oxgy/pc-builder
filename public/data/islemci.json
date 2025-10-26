@@ -1,0 +1,872 @@
+[
+  {
+    "id": "cpu-amd-am5-1",
+    "marka": "AMD",
+    "model": "Ryzen 5 7600",
+    "ad": "Ryzen 5 7600",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_7000",
+    "cekirdek_sayi": 6,
+    "izlek_sayi": 12,
+    "temel_hiz_ghz": 3.8,
+    "turbo_hiz_ghz": 5.1,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 6400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_7000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am5-2",
+    "marka": "AMD",
+    "model": "Ryzen 7 7700",
+    "ad": "Ryzen 7 7700",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_7000",
+    "cekirdek_sayi": 8,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 3.8,
+    "turbo_hiz_ghz": 5.3,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 6800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_7000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am5-3",
+    "marka": "AMD",
+    "model": "Ryzen 9 7900",
+    "ad": "Ryzen 9 7900",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_7000",
+    "cekirdek_sayi": 12,
+    "izlek_sayi": 24,
+    "temel_hiz_ghz": 3.7,
+    "turbo_hiz_ghz": 5.4,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 7200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_7000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am5-4",
+    "marka": "AMD",
+    "model": "Ryzen 7 7800X3D",
+    "ad": "Ryzen 7 7800X3D",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_7000",
+    "cekirdek_sayi": 8,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 4.2,
+    "turbo_hiz_ghz": 5.0,
+    "tdp_w": 120,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 7600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_7000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am5-5",
+    "marka": "AMD",
+    "model": "Ryzen 5 7600X",
+    "ad": "Ryzen 5 7600X",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_7000",
+    "cekirdek_sayi": 6,
+    "izlek_sayi": 12,
+    "temel_hiz_ghz": 4.7,
+    "turbo_hiz_ghz": 5.3,
+    "tdp_w": 105,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 6000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_7000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am5-6",
+    "marka": "AMD",
+    "model": "Ryzen 9 7950X",
+    "ad": "Ryzen 9 7950X",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_7000",
+    "cekirdek_sayi": 16,
+    "izlek_sayi": 32,
+    "temel_hiz_ghz": 4.5,
+    "turbo_hiz_ghz": 5.7,
+    "tdp_w": 170,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 6400,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_7000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am5-7",
+    "marka": "AMD",
+    "model": "Ryzen 7 9700X",
+    "ad": "Ryzen 7 9700X",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_9000",
+    "cekirdek_sayi": 8,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 3.8,
+    "turbo_hiz_ghz": 5.5,
+    "tdp_w": 120,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 8800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 8
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_9000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am5-8",
+    "marka": "AMD",
+    "model": "Ryzen 9 9900X",
+    "ad": "Ryzen 9 9900X",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_9000",
+    "cekirdek_sayi": 12,
+    "izlek_sayi": 24,
+    "temel_hiz_ghz": 4.0,
+    "turbo_hiz_ghz": 5.6,
+    "tdp_w": 170,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 9200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_9000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am5-9",
+    "marka": "AMD",
+    "model": "Ryzen 9 9950X",
+    "ad": "Ryzen 9 9950X",
+    "vendor": "AMD",
+    "soket": "AM5",
+    "nesil": "ryzen_9000",
+    "cekirdek_sayi": 16,
+    "izlek_sayi": 32,
+    "temel_hiz_ghz": 4.3,
+    "turbo_hiz_ghz": 5.7,
+    "tdp_w": 170,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 7000
+    },
+    "igpu": true,
+    "fiyat_try": 9600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "am5",
+      "ryzen_9000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-10",
+    "marka": "AMD",
+    "model": "Ryzen 5 5600",
+    "ad": "Ryzen 5 5600",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_5000",
+    "cekirdek_sayi": 6,
+    "izlek_sayi": 12,
+    "temel_hiz_ghz": 3.5,
+    "turbo_hiz_ghz": 4.4,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_5000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-11",
+    "marka": "AMD",
+    "model": "Ryzen 5 5600X",
+    "ad": "Ryzen 5 5600X",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_5000",
+    "cekirdek_sayi": 6,
+    "izlek_sayi": 12,
+    "temel_hiz_ghz": 3.7,
+    "turbo_hiz_ghz": 4.6,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 3900,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_5000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-12",
+    "marka": "AMD",
+    "model": "Ryzen 7 5700X",
+    "ad": "Ryzen 7 5700X",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_5000",
+    "cekirdek_sayi": 8,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 3.4,
+    "turbo_hiz_ghz": 4.6,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 4300,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_5000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-13",
+    "marka": "AMD",
+    "model": "Ryzen 7 5800X",
+    "ad": "Ryzen 7 5800X",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_5000",
+    "cekirdek_sayi": 8,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 3.8,
+    "turbo_hiz_ghz": 4.7,
+    "tdp_w": 105,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 4700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_5000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-14",
+    "marka": "AMD",
+    "model": "Ryzen 9 5900X",
+    "ad": "Ryzen 9 5900X",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_5000",
+    "cekirdek_sayi": 12,
+    "izlek_sayi": 24,
+    "temel_hiz_ghz": 3.7,
+    "turbo_hiz_ghz": 4.8,
+    "tdp_w": 105,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 5100,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 15
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_5000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-15",
+    "marka": "AMD",
+    "model": "Ryzen 9 5950X",
+    "ad": "Ryzen 9 5950X",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_5000",
+    "cekirdek_sayi": 16,
+    "izlek_sayi": 32,
+    "temel_hiz_ghz": 3.4,
+    "turbo_hiz_ghz": 4.9,
+    "tdp_w": 105,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 3500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_5000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-16",
+    "marka": "AMD",
+    "model": "Ryzen 7 5700G",
+    "ad": "Ryzen 7 5700G",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_5000",
+    "cekirdek_sayi": 8,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 3.8,
+    "turbo_hiz_ghz": 4.6,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 3900,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_5000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-17",
+    "marka": "AMD",
+    "model": "Ryzen 5 3600",
+    "ad": "Ryzen 5 3600",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_3000",
+    "cekirdek_sayi": 6,
+    "izlek_sayi": 12,
+    "temel_hiz_ghz": 3.6,
+    "turbo_hiz_ghz": 4.2,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 3300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_3000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-amd-am4-18",
+    "marka": "AMD",
+    "model": "Ryzen 7 3700X",
+    "ad": "Ryzen 7 3700X",
+    "vendor": "AMD",
+    "soket": "AM4",
+    "nesil": "ryzen_3000",
+    "cekirdek_sayi": 8,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 3.6,
+    "turbo_hiz_ghz": 4.4,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 3700,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "am4",
+      "ryzen_3000",
+      "amd"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-19",
+    "marka": "Intel",
+    "model": "Core i5-12400F",
+    "ad": "Core i5-12400F",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_12th",
+    "cekirdek_sayi": 6,
+    "izlek_sayi": 12,
+    "temel_hiz_ghz": 2.5,
+    "turbo_hiz_ghz": 4.4,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 3600
+    },
+    "igpu": null,
+    "fiyat_try": 6600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_12th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-20",
+    "marka": "Intel",
+    "model": "Core i5-12600K",
+    "ad": "Core i5-12600K",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_12th",
+    "cekirdek_sayi": 10,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 3.7,
+    "turbo_hiz_ghz": 4.9,
+    "tdp_w": 125,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 5000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 21
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_12th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-21",
+    "marka": "Intel",
+    "model": "Core i7-12700F",
+    "ad": "Core i7-12700F",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_12th",
+    "cekirdek_sayi": 12,
+    "izlek_sayi": 20,
+    "temel_hiz_ghz": 2.1,
+    "turbo_hiz_ghz": 4.9,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 3600
+    },
+    "igpu": null,
+    "fiyat_try": 5400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 22
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_12th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-22",
+    "marka": "Intel",
+    "model": "Core i9-12900K",
+    "ad": "Core i9-12900K",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_12th",
+    "cekirdek_sayi": 16,
+    "izlek_sayi": 24,
+    "temel_hiz_ghz": 3.2,
+    "turbo_hiz_ghz": 5.2,
+    "tdp_w": 125,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 5800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_12th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-23",
+    "marka": "Intel",
+    "model": "Core i5-13400F",
+    "ad": "Core i5-13400F",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_13th",
+    "cekirdek_sayi": 10,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 2.5,
+    "turbo_hiz_ghz": 4.6,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 6400
+    },
+    "igpu": null,
+    "fiyat_try": 7700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_13th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-24",
+    "marka": "Intel",
+    "model": "Core i7-13700K",
+    "ad": "Core i7-13700K",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_13th",
+    "cekirdek_sayi": 16,
+    "izlek_sayi": 24,
+    "temel_hiz_ghz": 3.4,
+    "turbo_hiz_ghz": 5.4,
+    "tdp_w": 125,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 6400
+    },
+    "igpu": true,
+    "fiyat_try": 8100,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_13th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-25",
+    "marka": "Intel",
+    "model": "Core i9-13900K",
+    "ad": "Core i9-13900K",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_13th",
+    "cekirdek_sayi": 24,
+    "izlek_sayi": 32,
+    "temel_hiz_ghz": 3.0,
+    "turbo_hiz_ghz": 5.8,
+    "tdp_w": 125,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 6400
+    },
+    "igpu": true,
+    "fiyat_try": 6500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_13th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-26",
+    "marka": "Intel",
+    "model": "Core i5-14600KF",
+    "ad": "Core i5-14600KF",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_14th",
+    "cekirdek_sayi": 14,
+    "izlek_sayi": 20,
+    "temel_hiz_ghz": 3.5,
+    "turbo_hiz_ghz": 5.3,
+    "tdp_w": 125,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 6400
+    },
+    "igpu": null,
+    "fiyat_try": 8400,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_14th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-27",
+    "marka": "Intel",
+    "model": "Core i7-14700K",
+    "ad": "Core i7-14700K",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_14th",
+    "cekirdek_sayi": 20,
+    "izlek_sayi": 28,
+    "temel_hiz_ghz": 3.4,
+    "turbo_hiz_ghz": 5.6,
+    "tdp_w": 125,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 6400
+    },
+    "igpu": true,
+    "fiyat_try": 8800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_14th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1700-28",
+    "marka": "Intel",
+    "model": "Core i9-14900K",
+    "ad": "Core i9-14900K",
+    "vendor": "Intel",
+    "soket": "LGA1700",
+    "nesil": "intel_14th",
+    "cekirdek_sayi": 24,
+    "izlek_sayi": 32,
+    "temel_hiz_ghz": 3.2,
+    "turbo_hiz_ghz": 6.0,
+    "tdp_w": 125,
+    "bellek_destek": {
+      "tip": "DDR5",
+      "max_mhz": 6400
+    },
+    "igpu": true,
+    "fiyat_try": 9200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "lga1700",
+      "intel_14th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1200-29",
+    "marka": "Intel",
+    "model": "Core i5-10400F",
+    "ad": "Core i5-10400F",
+    "vendor": "Intel",
+    "soket": "LGA1200",
+    "nesil": "intel_10th",
+    "cekirdek_sayi": 6,
+    "izlek_sayi": 12,
+    "temel_hiz_ghz": 2.9,
+    "turbo_hiz_ghz": 4.3,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": null,
+    "fiyat_try": 4600,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "lga1200",
+      "intel_10th",
+      "intel"
+    ]
+  },
+  {
+    "id": "cpu-intel-lga1200-30",
+    "marka": "Intel",
+    "model": "Core i7-10700",
+    "ad": "Core i7-10700",
+    "vendor": "Intel",
+    "soket": "LGA1200",
+    "nesil": "intel_10th",
+    "cekirdek_sayi": 8,
+    "izlek_sayi": 16,
+    "temel_hiz_ghz": 2.9,
+    "turbo_hiz_ghz": 4.8,
+    "tdp_w": 65,
+    "bellek_destek": {
+      "tip": "DDR4",
+      "max_mhz": 3600
+    },
+    "igpu": true,
+    "fiyat_try": 3000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "lga1200",
+      "intel_10th",
+      "intel"
+    ]
+  }
+]

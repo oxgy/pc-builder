@@ -1,0 +1,1143 @@
+[
+  {
+    "id": "cool-noctua-nh-u12a-1",
+    "marka": "Noctua",
+    "model": "NH-U12A",
+    "ad": "Noctua NH-U12A",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 120,
+    "pompa_rpm": 2963,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 25,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-noctua-nh-d15-2",
+    "marka": "Noctua",
+    "model": "NH-D15",
+    "ad": "Noctua NH-D15",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 120,
+    "pompa_rpm": 2985,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "LGA1700",
+      "LGA1200"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 28,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-noctua-nh-l9i-3",
+    "marka": "Noctua",
+    "model": "NH-L9i",
+    "ad": "Noctua NH-L9i",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 280,
+    "pompa_rpm": 2021,
+    "yukseklik_mm": 37,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1200",
+      "LGA1700"
+    ],
+    "max_tdp_w": 95,
+    "gürültü_db": 30,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-noctua-nh-u14s-4",
+    "marka": "Noctua",
+    "model": "NH-U14S",
+    "ad": "Noctua NH-U14S",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 120,
+    "pompa_rpm": 2264,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 32,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-deepcool-ak400-5",
+    "marka": "DeepCool",
+    "model": "AK400",
+    "ad": "DeepCool AK400",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "LGA1700",
+      "LGA1200"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 35,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "fiyat_try": 1650,
+    "etiketler": [
+      "air",
+      "1fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-deepcool-ak620-6",
+    "marka": "DeepCool",
+    "model": "AK620",
+    "ad": "DeepCool AK620",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 92,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1200",
+      "LGA1700"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 22,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 1650,
+    "etiketler": [
+      "air",
+      "1fan",
+      "92mm"
+    ]
+  },
+  {
+    "id": "cool-deepcool-lt720-7",
+    "marka": "DeepCool",
+    "model": "LT720",
+    "ad": "DeepCool LT720",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 240,
+    "pompa_rpm": 2676,
+    "yukseklik_mm": 52,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 25,
+    "rgb": true,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 8
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm",
+      "rgb"
+    ]
+  },
+  {
+    "id": "cool-deepcool-ls520-8",
+    "marka": "DeepCool",
+    "model": "LS520",
+    "ad": "DeepCool LS520",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 240,
+    "pompa_rpm": 2967,
+    "yukseklik_mm": 52,
+    "desteklenen_soketler": [
+      "LGA1700",
+      "LGA1200"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 28,
+    "rgb": true,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm",
+      "rgb"
+    ]
+  },
+  {
+    "id": "cool-corsair-icueh100i-9",
+    "marka": "Corsair",
+    "model": "iCUE H100i",
+    "ad": "Corsair iCUE H100i",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 280,
+    "pompa_rpm": 2403,
+    "yukseklik_mm": 52,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1200",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 30,
+    "rgb": true,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm",
+      "rgb"
+    ]
+  },
+  {
+    "id": "cool-corsair-icueh150i-10",
+    "marka": "Corsair",
+    "model": "iCUE H150i",
+    "ad": "Corsair iCUE H150i",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 120,
+    "pompa_rpm": 2127,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 32,
+    "rgb": true,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm",
+      "rgb"
+    ]
+  },
+  {
+    "id": "cool-corsair-a500-11",
+    "marka": "Corsair",
+    "model": "A500",
+    "ad": "Corsair A500",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 92,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "LGA1700",
+      "LGA1200"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 35,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "fiyat_try": 1650,
+    "etiketler": [
+      "air",
+      "1fan",
+      "92mm"
+    ]
+  },
+  {
+    "id": "cool-coolermaster-hyper212halo-12",
+    "marka": "Cooler Master",
+    "model": "Hyper 212 Halo",
+    "ad": "Cooler Master Hyper 212 Halo",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 280,
+    "pompa_rpm": 2926,
+    "yukseklik_mm": 52,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1200",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 22,
+    "rgb": true,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm",
+      "rgb"
+    ]
+  },
+  {
+    "id": "cool-coolermaster-ma612stealth-13",
+    "marka": "Cooler Master",
+    "model": "MA612 Stealth",
+    "ad": "Cooler Master MA612 Stealth",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 140,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 25,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "fiyat_try": 1650,
+    "etiketler": [
+      "air",
+      "1fan",
+      "140mm"
+    ]
+  },
+  {
+    "id": "cool-coolermaster-ml240lv2-14",
+    "marka": "Cooler Master",
+    "model": "ML240L V2",
+    "ad": "Cooler Master ML240L V2",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "LGA1700",
+      "LGA1200"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 28,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 15
+    },
+    "fiyat_try": 1650,
+    "etiketler": [
+      "air",
+      "1fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-coolermaster-pl360flux-15",
+    "marka": "Cooler Master",
+    "model": "PL360 Flux",
+    "ad": "Cooler Master PL360 Flux",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 140,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1200",
+      "LGA1700"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 30,
+    "rgb": true,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "fiyat_try": 1650,
+    "etiketler": [
+      "air",
+      "1fan",
+      "140mm",
+      "rgb"
+    ]
+  },
+  {
+    "id": "cool-bequiet!-darkrockpro4-16",
+    "marka": "be quiet!",
+    "model": "Dark Rock Pro 4",
+    "ad": "be quiet! Dark Rock Pro 4",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 32,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "fiyat_try": 1650,
+    "etiketler": [
+      "air",
+      "1fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-bequiet!-purerock2-17",
+    "marka": "be quiet!",
+    "model": "Pure Rock 2",
+    "ad": "be quiet! Pure Rock 2",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 92,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "LGA1700",
+      "LGA1200"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 35,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "fiyat_try": 1650,
+    "etiketler": [
+      "air",
+      "1fan",
+      "92mm"
+    ]
+  },
+  {
+    "id": "cool-bequiet!-silentloop2280-18",
+    "marka": "be quiet!",
+    "model": "Silent Loop 2 280",
+    "ad": "be quiet! Silent Loop 2 280",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 240,
+    "pompa_rpm": 2426,
+    "yukseklik_mm": 52,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1200",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 22,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-arctic-freezer34esports-19",
+    "marka": "Arctic",
+    "model": "Freezer 34 eSports",
+    "ad": "Arctic Freezer 34 eSports",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 92,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 158,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 25,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "fiyat_try": 1450,
+    "etiketler": [
+      "air",
+      "1fan",
+      "92mm"
+    ]
+  },
+  {
+    "id": "cool-arctic-liquidfreezerii240-20",
+    "marka": "Arctic",
+    "model": "Liquid Freezer II 240",
+    "ad": "Arctic Liquid Freezer II 240",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 120,
+    "pompa_rpm": 2732,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "LGA1700",
+      "LGA1200"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 28,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 21
+    },
+    "fiyat_try": 1900,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-arctic-liquidfreezerii360-21",
+    "marka": "Arctic",
+    "model": "Liquid Freezer II 360",
+    "ad": "Arctic Liquid Freezer II 360",
+    "tip": "Liquid",
+    "fan_sayisi": 3,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 280,
+    "pompa_rpm": 2205,
+    "yukseklik_mm": 52,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1200",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 30,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.). Yükseklik kasa ile uyumlu olmalı.",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 22
+    },
+    "fiyat_try": 2050,
+    "etiketler": [
+      "liquid",
+      "3fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-thermaltake-toughliquid240argb-22",
+    "marka": "Thermaltake",
+    "model": "TOUGHLIQUID 240 ARGB",
+    "ad": "Thermaltake TOUGHLIQUID 240 ARGB",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 240,
+    "pompa_rpm": 2580,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 25,
+    "rgb": true,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm",
+      "rgb"
+    ]
+  },
+  {
+    "id": "cool-thermaltake-toughair310-23",
+    "marka": "Thermaltake",
+    "model": "TOUGHAIR 310",
+    "ad": "Thermaltake TOUGHAIR 310",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 155,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 28,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 13
+    },
+    "fiyat_try": 1700,
+    "etiketler": [
+      "air",
+      "1fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-nzxt-krakenelite360-24",
+    "marka": "NZXT",
+    "model": "Kraken Elite 360",
+    "ad": "NZXT Kraken Elite 360",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 240,
+    "pompa_rpm": 2315,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 30,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-nzxt-kraken240rgb-25",
+    "marka": "NZXT",
+    "model": "Kraken 240 RGB",
+    "ad": "NZXT Kraken 240 RGB",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 240,
+    "pompa_rpm": 2050,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 28,
+    "rgb": true,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 15
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm",
+      "rgb"
+    ]
+  },
+  {
+    "id": "cool-id-cooling-se-224-xt-26",
+    "marka": "ID-COOLING",
+    "model": "SE-224-XT",
+    "ad": "ID-COOLING SE-224-XT",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 155,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 28,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "fiyat_try": 1700,
+    "etiketler": [
+      "air",
+      "1fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-id-cooling-frostflowx240-27",
+    "marka": "ID-COOLING",
+    "model": "FROSTFLOW X 240",
+    "ad": "ID-COOLING FROSTFLOW X 240",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 240,
+    "pompa_rpm": 2610,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 28,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-scythe-fuma2rev.b-28",
+    "marka": "Scythe",
+    "model": "Fuma 2 Rev.B",
+    "ad": "Scythe Fuma 2 Rev.B",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 155,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 25,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "fiyat_try": 1700,
+    "etiketler": [
+      "air",
+      "1fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-scythe-mugen5rev.c-29",
+    "marka": "Scythe",
+    "model": "Mugen 5 Rev.C",
+    "ad": "Scythe Mugen 5 Rev.C",
+    "tip": "Air",
+    "fan_sayisi": 1,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": null,
+    "pompa_rpm": null,
+    "yukseklik_mm": 155,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 150,
+    "gürültü_db": 32,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 19
+    },
+    "fiyat_try": 1700,
+    "etiketler": [
+      "air",
+      "1fan",
+      "120mm"
+    ]
+  },
+  {
+    "id": "cool-lian li-galahadii360-30",
+    "marka": "Lian Li",
+    "model": "Galahad II 360",
+    "ad": "Lian Li Galahad II 360",
+    "tip": "Liquid",
+    "fan_sayisi": 2,
+    "fan_boyutu_mm": 120,
+    "radyator_mm": 240,
+    "pompa_rpm": 2491,
+    "yukseklik_mm": 27,
+    "desteklenen_soketler": [
+      "AM4",
+      "AM5",
+      "LGA1700"
+    ],
+    "max_tdp_w": 250,
+    "gürültü_db": 32,
+    "rgb": false,
+    "malzeme": {
+      "soğutucu": "alüminyum",
+      "ısı_boru": "bakır"
+    },
+    "uyumluluk": {
+      "anakart_kontrol": "CPU soketi desteklenen listede olmalı (AM4, AM5, LGA1700 vb.).",
+      "tdp_kontrol": "İşlemcinin TDP değeri soğutucunun max_tdp_w değerini aşmamalı."
+    },
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "fiyat_try": 2100,
+    "etiketler": [
+      "liquid",
+      "2fan",
+      "120mm"
+    ]
+  }
+]

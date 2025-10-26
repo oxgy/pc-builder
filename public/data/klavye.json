@@ -1,0 +1,1705 @@
+[
+  {
+    "id": "kb-logitech-gprox-1",
+    "marka": "Logitech",
+    "seri": "G Pro X",
+    "model": "G Pro X US-ANSI 65%",
+    "ad": "Logitech G Pro X 65% US-ANSI",
+    "boyut": "65%",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "tactile",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "USB-C",
+      "kablo": "USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": false
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "65pct",
+      "usansi",
+      "tactile"
+    ]
+  },
+  {
+    "id": "kb-logitech-gproxwireless-2",
+    "marka": "Logitech",
+    "seri": "G Pro X Wireless",
+    "model": "G Pro X Wireless ISO-UK 75%",
+    "ad": "Logitech G Pro X Wireless 75% ISO-UK",
+    "boyut": "75%",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "clicky",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "75pct",
+      "isouk",
+      "clicky"
+    ]
+  },
+  {
+    "id": "kb-logitech-mxmechanical-3",
+    "marka": "Logitech",
+    "seri": "MX Mechanical",
+    "model": "MX Mechanical TR-Q TKL",
+    "ad": "Logitech MX Mechanical TKL TR-Q",
+    "boyut": "TKL",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "optical-linear",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "Bluetooth",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 4
+    },
+    "etiketler": [
+      "tkl",
+      "trq",
+      "optical-linear"
+    ]
+  },
+  {
+    "id": "kb-logitech-mxmechanicalwireless-4",
+    "marka": "Logitech",
+    "seri": "MX Mechanical Wireless",
+    "model": "MX Mechanical Wireless US-ANSI Full",
+    "ad": "Logitech MX Mechanical Wireless Full US-ANSI",
+    "boyut": "Full",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "optical-clicky",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "detachable USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "full",
+      "usansi",
+      "optical-clicky"
+    ]
+  },
+  {
+    "id": "kb-logitech-g915-5",
+    "marka": "Logitech",
+    "seri": "G915",
+    "model": "G915 ISO-UK 60%",
+    "ad": "Logitech G915 60% ISO-UK",
+    "boyut": "60%",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "linear",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "USB-C",
+      "kablo": "USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": false
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "60pct",
+      "isouk",
+      "linear"
+    ]
+  },
+  {
+    "id": "kb-logitech-g915wireless-6",
+    "marka": "Logitech",
+    "seri": "G915 Wireless",
+    "model": "G915 Wireless TR-Q 65%",
+    "ad": "Logitech G915 Wireless 65% TR-Q",
+    "boyut": "65%",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "tactile",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": false
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 7
+    },
+    "etiketler": [
+      "65pct",
+      "trq",
+      "tactile"
+    ]
+  },
+  {
+    "id": "kb-logitech-k835-7",
+    "marka": "Logitech",
+    "seri": "K835",
+    "model": "K835 US-ANSI 75%",
+    "ad": "Logitech K835 75% US-ANSI",
+    "boyut": "75%",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "clicky",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "Bluetooth",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2200,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "75pct",
+      "usansi",
+      "clicky"
+    ]
+  },
+  {
+    "id": "kb-logitech-k835wireless-8",
+    "marka": "Logitech",
+    "seri": "K835 Wireless",
+    "model": "K835 Wireless ISO-UK TKL",
+    "ad": "Logitech K835 Wireless TKL ISO-UK",
+    "boyut": "TKL",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "optical-linear",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "detachable USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 9
+    },
+    "etiketler": [
+      "tkl",
+      "isouk",
+      "optical-linear"
+    ]
+  },
+  {
+    "id": "kb-keychron-k2-9",
+    "marka": "Keychron",
+    "seri": "K2",
+    "model": "K2 TR-Q Full",
+    "ad": "Keychron K2 Full TR-Q",
+    "boyut": "Full",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "optical-clicky",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "USB-C",
+      "kablo": "USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 10
+    },
+    "etiketler": [
+      "full",
+      "trq",
+      "optical-clicky"
+    ]
+  },
+  {
+    "id": "kb-keychron-k2wireless-10",
+    "marka": "Keychron",
+    "seri": "K2 Wireless",
+    "model": "K2 Wireless US-ANSI 60%",
+    "ad": "Keychron K2 Wireless 60% US-ANSI",
+    "boyut": "60%",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "linear",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": false
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 11
+    },
+    "etiketler": [
+      "60pct",
+      "usansi",
+      "linear"
+    ]
+  },
+  {
+    "id": "kb-keychron-k6-11",
+    "marka": "Keychron",
+    "seri": "K6",
+    "model": "K6 ISO-UK 65%",
+    "ad": "Keychron K6 65% ISO-UK",
+    "boyut": "65%",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "tactile",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "Bluetooth",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": false
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 12
+    },
+    "etiketler": [
+      "65pct",
+      "isouk",
+      "tactile"
+    ]
+  },
+  {
+    "id": "kb-keychron-k6wireless-12",
+    "marka": "Keychron",
+    "seri": "K6 Wireless",
+    "model": "K6 Wireless TR-Q 75%",
+    "ad": "Keychron K6 Wireless 75% TR-Q",
+    "boyut": "75%",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "clicky",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "detachable USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 13
+    },
+    "etiketler": [
+      "75pct",
+      "trq",
+      "clicky"
+    ]
+  },
+  {
+    "id": "kb-keychron-k8-13",
+    "marka": "Keychron",
+    "seri": "K8",
+    "model": "K8 US-ANSI TKL",
+    "ad": "Keychron K8 TKL US-ANSI",
+    "boyut": "TKL",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "optical-linear",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "USB-C",
+      "kablo": "USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 14
+    },
+    "etiketler": [
+      "tkl",
+      "usansi",
+      "optical-linear"
+    ]
+  },
+  {
+    "id": "kb-keychron-k8wireless-14",
+    "marka": "Keychron",
+    "seri": "K8 Wireless",
+    "model": "K8 Wireless ISO-UK Full",
+    "ad": "Keychron K8 Wireless Full ISO-UK",
+    "boyut": "Full",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "optical-clicky",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "full",
+      "isouk",
+      "optical-clicky"
+    ]
+  },
+  {
+    "id": "kb-keychron-q1-15",
+    "marka": "Keychron",
+    "seri": "Q1",
+    "model": "Q1 TR-Q 60%",
+    "ad": "Keychron Q1 60% TR-Q",
+    "boyut": "60%",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "linear",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "Bluetooth",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": false
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 16
+    },
+    "etiketler": [
+      "60pct",
+      "trq",
+      "linear"
+    ]
+  },
+  {
+    "id": "kb-keychron-q1wireless-16",
+    "marka": "Keychron",
+    "seri": "Q1 Wireless",
+    "model": "Q1 Wireless US-ANSI 65%",
+    "ad": "Keychron Q1 Wireless 65% US-ANSI",
+    "boyut": "65%",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "tactile",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "detachable USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": false
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 17
+    },
+    "etiketler": [
+      "65pct",
+      "usansi",
+      "tactile"
+    ]
+  },
+  {
+    "id": "kb-steelseries-apex7-17",
+    "marka": "SteelSeries",
+    "seri": "Apex 7",
+    "model": "Apex 7 ISO-UK 75%",
+    "ad": "SteelSeries Apex 7 75% ISO-UK",
+    "boyut": "75%",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "clicky",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "USB-C",
+      "kablo": "USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 18
+    },
+    "etiketler": [
+      "75pct",
+      "isouk",
+      "clicky"
+    ]
+  },
+  {
+    "id": "kb-steelseries-apex7wireless-18",
+    "marka": "SteelSeries",
+    "seri": "Apex 7 Wireless",
+    "model": "Apex 7 Wireless TR-Q TKL",
+    "ad": "SteelSeries Apex 7 Wireless TKL TR-Q",
+    "boyut": "TKL",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "optical-linear",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2300,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 19
+    },
+    "etiketler": [
+      "tkl",
+      "trq",
+      "optical-linear"
+    ]
+  },
+  {
+    "id": "kb-steelseries-apexpromini-19",
+    "marka": "SteelSeries",
+    "seri": "Apex Pro Mini",
+    "model": "Apex Pro Mini US-ANSI Full",
+    "ad": "SteelSeries Apex Pro Mini Full US-ANSI",
+    "boyut": "Full",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "optical-clicky",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "Bluetooth",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 20
+    },
+    "etiketler": [
+      "full",
+      "usansi",
+      "optical-clicky"
+    ]
+  },
+  {
+    "id": "kb-steelseries-apexprominiwireless-20",
+    "marka": "SteelSeries",
+    "seri": "Apex Pro Mini Wireless",
+    "model": "Apex Pro Mini Wireless ISO-UK 60%",
+    "ad": "SteelSeries Apex Pro Mini Wireless 60% ISO-UK",
+    "boyut": "60%",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "linear",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "detachable USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": false
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 21
+    },
+    "etiketler": [
+      "60pct",
+      "isouk",
+      "linear"
+    ]
+  },
+  {
+    "id": "kb-steelseries-apex3tkl-21",
+    "marka": "SteelSeries",
+    "seri": "Apex 3 TKL",
+    "model": "Apex 3 TKL TR-Q 65%",
+    "ad": "SteelSeries Apex 3 TKL 65% TR-Q",
+    "boyut": "65%",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "tactile",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "USB-C",
+      "kablo": "USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": false,
+      "ses_tuslari": false
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "65pct",
+      "trq",
+      "tactile"
+    ]
+  },
+  {
+    "id": "kb-steelseries-apex3tklwireless-22",
+    "marka": "SteelSeries",
+    "seri": "Apex 3 TKL Wireless",
+    "model": "Apex 3 TKL Wireless US-ANSI 75%",
+    "ad": "SteelSeries Apex 3 TKL Wireless 75% US-ANSI",
+    "boyut": "75%",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "clicky",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": false,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 23
+    },
+    "etiketler": [
+      "75pct",
+      "usansi",
+      "clicky"
+    ]
+  },
+  {
+    "id": "kb-razer-huntsmanmini-23",
+    "marka": "Razer",
+    "seri": "Huntsman Mini",
+    "model": "Huntsman Mini ISO-UK TKL",
+    "ad": "Razer Huntsman Mini TKL ISO-UK",
+    "boyut": "TKL",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "optical-linear",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "Bluetooth",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": true,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2000,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 24
+    },
+    "etiketler": [
+      "tkl",
+      "isouk",
+      "optical-linear"
+    ]
+  },
+  {
+    "id": "kb-razer-huntsmanminiwireless-24",
+    "marka": "Razer",
+    "seri": "Huntsman Mini Wireless",
+    "model": "Huntsman Mini Wireless TR-Q Full",
+    "ad": "Razer Huntsman Mini Wireless Full TR-Q",
+    "boyut": "Full",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "optical-clicky",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "detachable USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": true,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1800,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 25
+    },
+    "etiketler": [
+      "full",
+      "trq",
+      "optical-clicky"
+    ]
+  },
+  {
+    "id": "kb-razer-blackwidowv4-25",
+    "marka": "Razer",
+    "seri": "BlackWidow V4",
+    "model": "BlackWidow V4 US-ANSI 60%",
+    "ad": "Razer BlackWidow V4 60% US-ANSI",
+    "boyut": "60%",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "linear",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "USB-C",
+      "kablo": "USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": true,
+      "multidevice": false,
+      "ses_tuslari": false
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1700,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 1
+    },
+    "etiketler": [
+      "60pct",
+      "usansi",
+      "linear"
+    ]
+  },
+  {
+    "id": "kb-razer-blackwidowv4wireless-26",
+    "marka": "Razer",
+    "seri": "BlackWidow V4 Wireless",
+    "model": "BlackWidow V4 Wireless ISO-UK 65%",
+    "ad": "Razer BlackWidow V4 Wireless 65% ISO-UK",
+    "boyut": "65%",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "tactile",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": true,
+      "multidevice": true,
+      "ses_tuslari": false
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2200,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 2
+    },
+    "etiketler": [
+      "65pct",
+      "isouk",
+      "tactile"
+    ]
+  },
+  {
+    "id": "kb-razer-deathstalkerv2pro-27",
+    "marka": "Razer",
+    "seri": "DeathStalker V2 Pro",
+    "model": "DeathStalker V2 Pro TR-Q 75%",
+    "ad": "Razer DeathStalker V2 Pro 75% TR-Q",
+    "boyut": "75%",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "clicky",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "Bluetooth",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": true,
+      "multidevice": true,
+      "ses_tuslari": true
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 3
+    },
+    "etiketler": [
+      "75pct",
+      "trq",
+      "clicky"
+    ]
+  },
+  {
+    "id": "kb-razer-deathstalkerv2prowireless-28",
+    "marka": "Razer",
+    "seri": "DeathStalker V2 Pro Wireless",
+    "model": "DeathStalker V2 Pro Wireless US-ANSI TKL",
+    "ad": "Razer DeathStalker V2 Pro Wireless TKL US-ANSI",
+    "boyut": "TKL",
+    "dizilim": "US-ANSI",
+    "switch": {
+      "tip": "optical-linear",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "USB-A",
+      "kablo": "detachable USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "White",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": true,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1500,
+    "stok": {
+      "durum": "out_of_stock",
+      "adet": 0
+    },
+    "etiketler": [
+      "tkl",
+      "usansi",
+      "optical-linear"
+    ]
+  },
+  {
+    "id": "kb-corsair-k70rgb-29",
+    "marka": "Corsair",
+    "seri": "K70 RGB",
+    "model": "K70 RGB ISO-UK Full",
+    "ad": "Corsair K70 RGB Full ISO-UK",
+    "boyut": "Full",
+    "dizilim": "ISO-UK",
+    "switch": {
+      "tip": "optical-clicky",
+      "hot_swap": false
+    },
+    "baglanti": {
+      "tip": "USB-C",
+      "kablo": "USB-C"
+    },
+    "kablosuz": false,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "PBT doubleshot",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": null,
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": true,
+      "multidevice": false,
+      "ses_tuslari": true
+    },
+    "pil": null,
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 1500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 5
+    },
+    "etiketler": [
+      "full",
+      "isouk",
+      "optical-clicky"
+    ]
+  },
+  {
+    "id": "kb-corsair-k70rgbwireless-30",
+    "marka": "Corsair",
+    "seri": "K70 RGB Wireless",
+    "model": "K70 RGB Wireless TR-Q 60%",
+    "ad": "Corsair K70 RGB Wireless 60% TR-Q",
+    "boyut": "60%",
+    "dizilim": "TR-Q",
+    "switch": {
+      "tip": "linear",
+      "hot_swap": true
+    },
+    "baglanti": {
+      "tip": "2.4GHz",
+      "dongle": "USB-A",
+      "bluetooth": true,
+      "kablo": "USB-C"
+    },
+    "kablosuz": true,
+    "polling_hz": 1000,
+    "keycap": {
+      "malzeme": "ABS",
+      "profil": "OEM"
+    },
+    "arkadan_aydinlatma": "RGB",
+    "ozellikler": {
+      "nkey_rollover": true,
+      "macro": true,
+      "multidevice": true,
+      "ses_tuslari": false
+    },
+    "pil": {
+      "kapasite_birim": "mAh~",
+      "deger": 3000,
+      "saris": "USB-C"
+    },
+    "uyumluluk": {
+      "isletim_sistemi": [
+        "Windows",
+        "macOS",
+        "Linux"
+      ],
+      "portlar": [
+        "USB-A",
+        "USB-C",
+        "Bluetooth"
+      ],
+      "notlar": "Bluetooth için BT 5.0+ önerilir. 2.4GHz için USB-A alıcı gerekir."
+    },
+    "fiyat_try": 2500,
+    "stok": {
+      "durum": "in_stock",
+      "adet": 6
+    },
+    "etiketler": [
+      "60pct",
+      "trq",
+      "linear"
+    ]
+  }
+]
